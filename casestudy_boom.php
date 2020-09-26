@@ -22,44 +22,40 @@
                     <ul>
                         <li>UI/UX</li>
                         <li>WEB APP DEVELOPMENT</li>
-                        <li>CMS - CONTENT MANAGEMENT SYSTEM</li>
+                        <li>CMS</li>
                     </ul>
                 <br><br>
                 <h4>brief</h4>
-                <p>To create a website application for online student radio. The website should be streaming music and allows students and tutors to create and share content.</p>
+                <p>Creating a website application for the online student radio. The website should stream music and allows students and tutors to create and share content.</p>
                 <br><br>
             </div>
             
             <img src="images/boom2.jpg" alt="">
             <div class="cs_text">
                 <h4>client</h4>
-                <p>Tutor of the bradcasting course in Edinburghn College and Fife College.</p>
+                <p>Bradcasting course tutor at Edinburgh College and Fife College.</p>
                 <br><br>
                 <h4>challenge</h4>
-                <p>I had to completely redesign current static web and build an application where students would be 
-                able to independently edit their presenters profiles, shows, news content and tutors 
-                would manage entire content through admin section. Challenge was to find a compromise between 
-                customisation and system unified look.</p>
+                <p>I had to completely redesign the current static web page and build an application where students would be able to independently edit their presenters profiles, 
+                shows, news and content. Tutors would have the ability to manage all content using the admin section. The challenge was to find a compromise between customizations 
+                and the systems unified look.</p>
             </div>
             <img src="images/boom7.jpg" alt="">
             <div class="cs_text">
                 <h4>solution</h4>
-                <p>I came with the solution to create a user system, where students will be able to individually
-                 create shows, edit their presenter's profiles and share other content, with the admin control
-                  system above it and a public website, where the actual content will be displayed, completely ruuning 
-                  from database. The wide set of templates availible for users to customise their content but the overall 
-                  look will remain unified.</p>
+                <p>I came with the solution to create a user system, where students will be able to individually create shows, edit their presenters profiles and share other users content, 
+                with the admin control system above it and a public website, where the actual content will be displayed, completely running from database. A wide set of templates is available
+                 for users to customize their content but the overall look will remain unified.</p>
             </div>
             <img src="images/boom3.jpg" alt="">
             <div class="cs_text">
                 <h4>process</h4>
-                <p>In the beggining of the project I have deeply dived into competition research and carried out a
-                 survey for tens of student to gather information and ideas. I found out how much they wish to have 
-                 place to independently present themselves. I processed 2 design direction, one lighter and airy and 
-                 second darker with neon elements. Final direction was set by the choice of majority of students.</p>
+                <p>In the beginning of the project I have deeply dived into competition research and carried out a survey for tens of students to gather information and ideas. 
+                I found out how they wish to have a platform to independently present themselves. I processed two design directions, one light and airy and the second one darker with neon elements. 
+                The final direction was set by the majority of students votes.</p>
                 <br><br><br>
                 <a href="https://www.youtube.com/watch?v=OVx0tJcPQCo" target="_blank"><h4><span class="iconify" data-inline="false" data-icon="clarity:music-note-solid" style="color: #000;"></span> Taron Egerton</h4></a>
-                <p>I discovered listening music helps me to focus on coding. I recently saw Rocketman and the story of talented Elton John ispired me during hard work.</p>  
+                <p>I discovered that listening to music helps me to focus on coding. I recently saw Rocketman, the story of talented Elton John and it inspired me during hard work.</p>  
             </div>
             
             <!-- <img src="images/boom5.jpg" alt=""> -->
@@ -75,42 +71,37 @@
                 <ul>
                     <li>UI/UX</li>
                     <li>WEB APP DEVELOPMENT</li>
-                    <li>CMS - CONTENT MANAGEMENT SYSTEM</li>
+                    <li>CMS</li>
                 </ul>
             </div>
             <div class="cs_text">
                 <h4>brief</h4>
-                <p>To create a website application for online student radio. The website should be streaming music and allows students and tutors to create and share content.</p>
+                <p>Creating a website application for the online student radio. The website should stream music and allows students and tutors to create and share content.</p>
             </div>
             <div class="cs_text">
                 <h4>client</h4>
-                <p>Tutor of the bradcasting course in Edinburghn College and Fife College.</p>
+                <p>Bradcasting course tutor at Edinburgh College and Fife College.</p>
             </div>
             <div class="cs_text">
                 <h4>challenge</h4>
-                <p>I had to completely redesign current static web and build an application where students would be 
-                able to independently edit their presenters profiles, shows, news content and tutors 
-                would manage entire content through admin section. Challenge was to find a compromise between 
-                customisation and system unified look.</p>
+                <p>I had to completely redesign the current static web page and build an application where students would be able to independently edit their presenters profiles,
+                 shows, news and content. Tutors would have the ability to manage all content using the admin section. The challenge was to find a compromise between customizations and the systems unified look.</p>
             </div>
             <div class="cs_text">
                 <h4>solution</h4>
-                <p>I came with the solution to create a user system, where students will be able to individually
-                 create shows, edit their presenter's profiles and share other content, with the admin control
-                  system above it and a public website, where the actual content will be displayed, completely ruuning 
-                  from database. The wide set of templates availible for users to customise their content but the overall 
-                  look will remain unified.</p>
+                <p>I came with the solution to create a user system, where students will be able to individually create shows, edit their presenters profiles and share other users content, with the admin control 
+                system above it and a public website, where the actual content will be displayed, completely running from database. A wide set of templates is available for users to customize their content but 
+                the overall look will remain unified.</p>
             </div>
             <div class="cs_text">
                 <h4>process</h4>
-                <p>In the beggining of the project I have deeply dived into competition research and carried out a
-                 survey for tens of student to gather information and ideas. I found out how much they wish to have 
-                 place to independently present themselves. I processed 2 design direction, one lighter and airy and 
-                 second darker with neon elements. Final direction was set by the choice of majority of students.</p>
+                <p>In the beginning of the project I have deeply dived into competition research and carried out a survey for tens of students to gather information and ideas. I found out how they wish to have
+                 a platform to independently present themselves. I processed two design directions, one light and airy and the second one darker with neon elements. The final direction was set by the majority 
+                 of students votes.</p>
             </div>
             <div class="cs_text">
             <a href="https://www.youtube.com/watch?v=OVx0tJcPQCo" target="_blank"><h4><span class="iconify" data-inline="false" data-icon="clarity:music-note-solid" style="color: #000;"></span> Taron Egerton</h4></a>
-                <p>I discovered listening music helps me to focus on coding. I recently saw Rocketman and the story of talented Elton John ispired me during hard work.</p>  
+                <p>I discovered that listening to music helps me to focus on coding. I recently saw Rocketman, the story of talented Elton John and it inspired me during hard work.</p>  
             </div>
             
             <!-- FORM -->

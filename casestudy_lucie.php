@@ -28,51 +28,47 @@
                     </ul>
                 <br><br>
                 <h4>brief</h4>
-                <p>To create a web to showcase my portfolio and list all services I am able to offer. The aim was to create 
-                a playfull space user would enjoy and entertain him by UX. Good to metion I afford myself experiment with the 
-                art direction I admire so much - bauhas movement contcepts.</p>
+                <p>TTo create a website that showcases my portfolio and list all the services that I am able to offer. The aim was to create a playful space that 
+                the user would enjoy and entertain them using UX. The Portfolio website truly reflects my admiration of the Bauhaus movement concept.</p>
                 <br><br>
             </div>
             <img src="images/lucie6.jpg"alt="">
             <div class="cs_text">
                 <h4>challenge</h4>
-                <p>Simplification of design to work only with esential elements in primary colours - yellow circle, blue square and red 
-                    triangle and intergangable black & white color combinations.
+                <p>Simplification of the design to work only with essential elements in primary colors - yellow circle, blue square and red triangle and interchangeable black & white color combinations.
                     <br>
-                    During the development stage it was challenging to find ways how to build and technically master all interaction ideas i came with in designs.</p>
+                    During the development stage it was challenging to find ways to build and technically master all the interaction ideas that I came up with during the design phase.</p>
             </div>
             <img src="images/lucie3.jpg"alt="">
             <div class="cs_text">
                 <h4>process</h4>
-                <p>I have decided for a little experiment based on my favourite bauhaus thoughts - less is more.
-                    I dived deeper into my professional values analysis and tried to find their equivalent  in these basic elements: 
+                <p>I have decided on a little experiment based on my favorite Bauhaus concept - less is more. <br>
+                    I dived deeper into analyzing my professional values and tried to find their symbolism in these basic elements: 
+                    <br><br><br>
+                    YELLOW CIRCLE <br> = INFINITE CREATIVITY
                     <br><br>
-                    YELLOW CIRCLE = INFINITE CREATIVITY
-                    <br>
-                    circle has allways been a perfect infinite shape for artists and mathematics,
-                    yellow is a symbol for optimism, creativity and energy
+                    The circle has always been a perfect infinite shape for artists and mathematicians. Yellow is a symbol for optimism, creativity and energy
+                    <br><br><br>
+                    BLUE SQUARE <br> = RELIABLE PROFESSIONALISM
                     <br><br>
-                    BLUE SQUARE = RELIABLE PROFESSIONALITY
-                    <br>
-                    square - “brick” basic element to build something bigger, also stability, reliability, 
-                    blue - trust, professionalism, stability
+                    Square - “brick” basic element to build something bigger as well as stability and reliability. <br>
+                    Blue - trust, professionalism, stability.
+                    <br><br><br>
+                    RED TRIANGL <br>= GOAL-ORIENTATED ATTITUDE
                     <br><br>
-                    RED TRIANGL = goal-oriantated attitude
-                    <br>
-                    triangle - symbol for movement, pointing, setting direction
-                    red - action, confidence</p>
+                    Triangle is a symbol for movement, pointing, setting direction.<br>
+                    Red - the color of action, confidence.</p>
             </div>
             <img src="images/lucie7.jpg" alt="">
             <img src="images/lucie8.jpg"alt="">
             <div class="cs_text">
                 <h4>solution</h4>
-                <p>The final soulution is a minimalistic design full of interactions which allows user to explore content. 
-                The basic elements guide user through each sections (bricket game in services, triangle as an arrow coming form the brief 
-                to the final results in each project). <br> As a big fan of black & white I have decided to preserve the decision for user to 
-                play with these two themes and fully enjoy and experience the potential of both colors.</p>
+                <p>The final solution is a minimalistic design full of interactions which allows the user to explore content. The basic elements guide the user through each section (bracket game in services, 
+                triangle as an arrow coming form the brief to the final results in each project). <br><br> As a big fan of black & white I have decided to preserve the decision of the canvas color for 
+                the user to play with these two themes and fully enjoy and experience the potential of both colors.</p>
                 <br><br><br>
                 <a href="https://www.youtube.com/watch?v=jIShrjNSypE" target="_blank"><h4><span class="iconify" data-inline="false" data-icon="clarity:music-note-solid" style="color: #fff;"></span> Mandrage</h4></a>
-                <p>I discovered listening music helps me to focus on coding. In this project I listened the czech band Mandrage, you can enjoy my favourite song here!</p>   
+                <p>I discovered listening to music helps me focus on coding. In this project I listened to the Czech band Mandrage, you can enjoy my favourite songs here!</p>   
             </div>
             
             <!-- <img src="images/boom5.jpg" alt=""> -->
@@ -94,48 +90,44 @@
             </div>
             <div class="cs_text">
                 <h4>brief</h4>
-                <p>To create a web to showcase my portfolio and list all services I am able to offer. The aim was to create 
-                <br>a playfull space user would enjoy and entertain him by UX. Good to metion I afford myself experiment with the 
-                art direction I admire so much - bauhas movement contcepts.</p>
+                <p>To create a website that showcases my portfolio and list all the services that I am able to offer. The aim was to create a playful space that the user would enjoy 
+                and entertain them using UX. The Portfolio website truly reflects my admiration of the Bauhaus movement concept.</p>
             </div>
             <div class="cs_text">
                 <h4>challenge</h4>
-                <p>Simplification of design to work only with esential elements in primary colours - yellow circle, blue square and red 
-                    triangle and intergangable black & white color combinations.
+                <p>Simplification of the design to work only with essential elements in primary colors - yellow circle, blue square and red triangle and interchangeable black & white color combinations.
                     <br>
-                    During the development stage it was challenging to find ways how to build and technically master all interaction ideas i came with in designs.</p>
+                    During the development stage it was challenging to find ways to build and technically master all the interaction ideas that I came up with during the design phase.</p>
             </div>
             <div class="cs_text">
                 <h4>process</h4>
-                <p>I have decided for a little experiment based on my favourite bauhaus thoughts - less is more.
-                    I dived deeper into my professional values analysis and tried to find their equivalent  in these basic elements: 
+                <p>I have decided on a little experiment based on my favorite Bauhaus concept - less is more. <br>
+                    I dived deeper into analyzing my professional values and tried to find their symbolism in these basic elements: 
+                    <br><br><br>
+                    YELLOW CIRCLE <br> = INFINITE CREATIVITY
                     <br><br>
-                    YELLOW CIRCLE = INFINITE CREATIVITY
-                    <br>
-                    circle has allways been a perfect infinite shape for artists and mathematics,
-                    yellow is a symbol for optimism, creativity and energy
+                    The circle has always been a perfect infinite shape for artists and mathematicians. Yellow is a symbol for optimism, creativity and energy
+                    <br><br><br>
+                    BLUE SQUARE <br> = RELIABLE PROFESSIONALISM
                     <br><br>
-                    BLUE SQUARE = RELIABLE PROFESSIONALITY
-                    <br>
-                    square - “brick” basic element to build something bigger, also stability, reliability, 
-                    blue - trust, professionalism, stability
+                    Square - “brick” basic element to build something bigger as well as stability and reliability. <br>
+                    Blue - trust, professionalism, stability.
+                    <br><br><br>
+                    RED TRIANGL <br>= GOAL-ORIENTATED ATTITUDE
                     <br><br>
-                    RED TRIANGL = goal-oriantated attitude
-                    <br>
-                    triangle - symbol for movement, pointing, setting direction
-                    red - action, confidence</p>
+                    Triangle is a symbol for movement, pointing, setting direction.<br>
+                    Red - the color of action, confidence.</p>
             </div>
             <div class="cs_text">
                 <h4>solution</h4>
-                <p>The final soulution is a minimalistic design full of interactions which allows user to explore content. 
-                The basic elements guide user through each sections (bricket game in services, triangle as an arrow coming form the brief 
-                to the final results in each project). <br> As a big fan of black & white I have decided to preserve the decision for user to 
-                play with these two themes and fully enjoy and experience the potential of both colors.</p>
+                <p>The final solution is a minimalistic design full of interactions which allows the user to explore content. The basic elements guide the user through each section (bracket game in services, 
+                triangle as an arrow coming form the brief to the final results in each project). <br> <br>As a big fan of black & white I have decided to preserve the decision of the canvas color for 
+                the user to play with these two themes and fully enjoy and experience the potential of both colors.</p>
            
             </div>
             <div class="cs_text">
                 <a href="https://www.youtube.com/watch?v=jIShrjNSypE" target="_blank"><h4><span class="iconify" data-inline="false" data-icon="clarity:music-note-solid" style="color: #fff;"></span> Mandrage</h4></a>
-                <p>I discovered listening music helps me to focus on coding. In this project I listened the czech band Mandrage, you can enjoy my favourite song here!</p>     
+                <p>I discovered listening to music helps me focus on coding. In this project I listened to the Czech band Mandrage, you can enjoy my favourite songs here!</p>     
             </div>
       
             

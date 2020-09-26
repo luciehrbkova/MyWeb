@@ -25,10 +25,11 @@
                         <li>UI/UX</li>
                         <li>web development</li>
                         <li>SEO</li>
+                        <li>marketing campaign</li>
                     </ul>
                 <br><br>
                 <h4>brief</h4>
-                <p>To create tailored presentation for freelancer which would also support her professional services, facilitate her work with clients and help to get new ones.</p>
+                <p>Creating a tailored presentation for a freelancer which would also support her professional services, facilitate her work with clients and help get new ones.</p>
                 <br><br>
                 <h4>client</h4>
                 <p>Helena is a freelance financial advisor with 8 years of experience.</p>
@@ -38,31 +39,31 @@
             <div class="cs_text">
             <br><br>
                 <h4>collaboration</h4>
-                <p>Regarding our previous experience I have asked tallented designer Martin Novotny to work with me on UI/UX and graphic assets for this project.</p>
+                <p>Following my previous experience,<br> I have asked talented designer <a href="https://www.behance.net/martinnovotny93?tracking_source=search%7Cmartin%20novotny">Martin Novotny</a> to work with me on the UI/UX and graphic assets for this project.</p>
                 <br><br>
                 <h4>challenge</h4>
-                <p>There were four main challenges we had to face. How to stand out between competition. How to create a quality product despite the reputation this
-                     field has in public opinion in the Czech Republic. To create a product supporting Helena’s work, help build respect and authority in her 
-                     services and will serve as a standard tool for daily use. And finally create a channel for aquisition of new clients.</p>
+                <p>There were four main challenges we had to face:  How to stand out from competitors. How to create a quality, trustworthy product despite the reputation this 
+                    field has in the public opinion of Czech Republic. 
+                    To create a product supporting Helena’s work that helps build respect and gives authenticity to her services which will also serve as a standard tool for daily use. 
+                    And finally create a channel for acquisition of new clients.
+                </p>
             </div>
             <img src="images/helena1.jpg"alt="">
             <div class="cs_text">
                 <h4>solution</h4>
-                <p>In a close cooperation with Helena we created unique content focused on client’s needs  which would not be found anywhere 
-                    else. (In reality section - morgage timeline or 3 steps to get morgage) The results were great. It helped to simplify work
-                     with clients and to build trustful relationship what was one of our main goals.</p>
+                <p>With close cooperation with Helena, we created unique content focused on clients needs which would not be found anywhere else. (For example: In the mortgage section - 
+                mortgage timeline or 3 steps to get mortgage) The results were great. It helped us simplify work with clients and build trustworthy relationships which was one of our main goals.</p>
             </div>
             <img src="images/helena3.jpg" alt="">
             <img src="images/helena4.jpg" alt="">
             <div class="cs_text">
                 <h4>process</h4>
-                <p>After a competition research and a deep analysis of Helena’s business we have agreed to build website on Helena’s many years 
-                    experiences. To put together unique guidelines for clients which would be found only on her web. In design phase we came with
-                     idea of beautiful illustrated Avatar to represent Helena within he overall web. Also the illustrations, icons and functional
-                      interactive elements were made exclusively for this project. </p>
+                <p>After researching competitors and a deep analysis of Helena’s business, we have agreed to build the website with emphasis on Helena's many years of experience. We put together unique 
+                guidelines for clients which would be found only on her website. During the design phase we came with the idea of a beautifully illustrated avatar that will represent Helena 
+                throughout the entire website. Also the illustrations, icons and functional interactive elements were made exclusively for this project.</p>
                 <br><br>
                 <a href="https://www.youtube.com/watch?v=gUSVCwcPS0w&list=PLjuQJKscnqT_S1aYuuMNzhKu6r3uphIz2" target="_blank"><h4><span class="iconify" data-inline="false" data-icon="clarity:music-note-solid" style="color: #fff;"></span> Tomas Klus</h4></a>
-                    <p>I discovered listening music helps me to focus on coding. In this project I listened mix of song from Tomas Klus and Krystof.</p>   
+                    <p>I discovered that listening to music helps me focus on coding. In this project I listened to a mix of songs from Tomas Klus and Krystof.</p>   
                 <br><br><br>
                 <a href="https://www.helenakmochova.cz/" target="_blanc"><p><img src="images/arrow_w.svg" alt="" class="arrow">  view project</p></a>
                 
@@ -83,11 +84,12 @@
                     <li>UI/UX</li>
                     <li>web development</li>
                     <li>SEO</li>
+                    <li>marketing campaign</li>
                 </ul>
             </div>
             <div class="cs_text">
                 <h4>brief</h4>
-                <p>To create tailored presentation for freelancer which would also support her professional services, facilitate her work with clients and help to get new ones.</p>
+                <p>Creating a tailored presentation for a freelancer which would also support her professional services, facilitate her work with clients and help get new ones.</p>
             </div>
             <div class="cs_text">
                 <h4>client</h4>
@@ -95,32 +97,28 @@
             </div>
             <div class="cs_text">
                 <h4>collaboration</h4>
-                <p>Regarding our previous experience I have asked tallented designer Martin Novotny to work with me on UI/UX and graphic assets for this project.</p>
+                <p>Following my previous experience,<br> I have asked talented designer <a href="https://www.behance.net/martinnovotny93?tracking_source=search%7Cmartin%20novotny">Martin Novotny</a> to work with me on the UI/UX and graphic assets for this project.</p>
             </div>
             <div class="cs_text">
                 <h4>challenge</h4>
-                <p>There were four main challenges we had to face. How to stand out between competition. How to create a quality product despite the reputation this
-                     field has in public opinion in the Czech Republic. To create a product supporting Helena’s work, help build respect and authority in her 
-                     services and will serve as a standard tool for daily use. And finally create a channel for aquisition of new clients.</p>
-           
+                <p>There were four main challenges we had to face: How to stand out from competitors. How to create a quality, trustworthy product despite the reputation this field has 
+                in the public opinion of Czech Republic. To create a product supporting Helena’s work that helps build respect and gives authenticity to her services which will also serve 
+                as a standard tool for daily use. And finally create a channel for acquisition of new clients.</p>
             </div>
             <div class="cs_text">
                 <h4>solution</h4>
-                <p>In a close cooperation with Helena we created unique content focused on client’s needs  which would not be found anywhere 
-                    else. (In reality section - morgage timeline or 3 steps to get morgage) The results were great. It helped to simplify work
-                     with clients and to build trustful relationship what was one of our main goals.</p>
+                <p>With close cooperation with Helena, we created unique content focused on clients needs which would not be found anywhere else. (For example: In the mortgage section - 
+                mortgage timeline or 3 steps to get mortgage) The results were great. It helped us simplify work with clients and build trustworthy relationships which was one of our main goals.</p>
             </div>
             <div class="cs_text">
                 <h4>process</h4>
-                <p>After a competition research and a deep analysis of Helena’s business we have agreed to build website on Helena’s many years 
-                    experiences. To put together unique guidelines for clients which would be found only on her web. In design phase we came with
-                     idea of beautiful illustrated Avatar to represent Helena within he overall web. Also the illustrations, icons and functional
-                      interactive elements were made exclusively for this project. </p>
+                <p>After researching competitors and a deep analysis of Helena’s business, we have agreed to build the website with emphasis on Helenas many years of experience. We put together unique 
+                guidelines for clients which would be found only on her website. During the design phase we came with the idea of a beautifully illustrated avatar that will represent Helena throughout 
+                the entire website. Also the illustrations, icons and functional interactive elements were made exclusively for this project.</p>
             </div>
             <div class="cs_text">
                     <a href="https://www.youtube.com/watch?v=gUSVCwcPS0w&list=PLjuQJKscnqT_S1aYuuMNzhKu6r3uphIz2" target="_blank"><h4><span class="iconify" data-inline="false" data-icon="clarity:music-note-solid" style="color: #fff;"></span> Tomas Klus</h4></a>
-                    <p>I discovered listening music helps me to focus on coding. In this project I listened mix of song from 
-                        Tomas Klus and Krystof.</p>    
+                    <p>I discovered that listening to music helps me focus on coding. In this project I listened to a mix of songs from Tomas Klus and Krystof.</p>    
             </div>
             <div class="cs_text">
                 <a href="https://www.helenakmochova.cz/" target="_blanc"><p> <img src="images/arrow_w.svg" alt="" class="arrow">  view project</p></a>

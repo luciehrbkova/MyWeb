@@ -29,18 +29,18 @@
                 <ul class="white">
                     <li>UI/UX</li>
                     <li>WEB APP DEVELOPMENT</li>
-                    <li>CMS - CONTENT MANAGEMENT SYSTEM</li>
+                    <li>CMS</li>
                 </ul>
                 <br><br>
                 <h4>brief</h4>
-                <p>I had to develop web application for bloggers with emphasis on the clear and minimalistic design.</p>
+                <p>I developed a web application for bloggers which focuses on clean and minimalistic design.</p>
                 <br><br>
             </div>
             <!-- <img src="images/sketchnoters5.jpg" class="cs_image_pc_no" alt=""> -->
             <img src="images/blue8.png" alt="">
             <div class="cs_text">
                 <h4>challenge</h4>
-                <p>In this project I had to solve how and where to store all the content created by individual users, how to sort it and how to display desired content for users when they want.</p>
+                <p>In this project I solved how and where to store all the content created by individual users, how to sort it and how to display specific content for users when they request it.</p>
             </div>
             <div class="cs_image_pc_only">
                 <img src="images/blue4.png" alt="">
@@ -51,9 +51,8 @@
             <img src="images/sketchnoters4.png" alt=""> -->
             <div class="cs_text">
                 <h4>solution</h4>
-                <p>The solution was to create a database driven web application. Registered users were able to edit their 
-                profiles and aslo to create articles and share it. They can browse other articles by themes or to see 
-                resent news. System required also admin to maintain users and overall content.</p>
+                <p>The solution was to create a database driven web application. Registered users were able to edit their profiles and also create articles and share them. 
+                They can browse other articles by themes and view recent news. The system also required an admin functionality to manage users and the content overall.</p>
             </div>
             <!-- <img src="images/blue7.png" alt=""> -->
             
@@ -72,22 +71,21 @@
                 <ul class="white">
                     <li>UI/UX</li>
                     <li>WEB APP DEVELOPMENT</li>
-                    <li>CMS - CONTENT MANAGEMENT SYSTEM</li>
+                    <li>CMS</li>
                 </ul>
             </div>
             <div class="cs_text">
                 <h4>brief</h4>
-                <p>I had to develop web application for bloggers with emphasis on the clear and minimalistic design.</p>
+                <p>I developed a web application for bloggers which focuses on clean and minimalistic design.</p>
             </div>
             <div class="cs_text">
                 <h4>challenge</h4>
-                <p>In this project I had to solve how and where to store all the user's information and how to display desired information for users.</p>
+                <p>In this project I solved how and where to store all the content created by individual users, how to sort it and how to display specific content for users when they request it.</p>
             </div>
             <div class="cs_text">
                 <h4>solution</h4>
-                <p>The solution was to create a database driven web application. Registered users were able to edit their profiles and also 
-                    to create articles and share it. They can browse other articles by themes or to see resent news. System required also 
-                    admin to maintain users adn overall content.</p>
+                <p>The solution was to create a database driven web application. Registered users were able to edit their profiles and also create articles and share them. They can browse other 
+                articles by themes and view recent news. The system also required an admin functionality to manage users and the content overall.</p>
             </div>
             <div class="cs_text">
                 <h4></h4>
