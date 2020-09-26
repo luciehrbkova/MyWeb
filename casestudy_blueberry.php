@@ -17,12 +17,7 @@
             <div class="cs_top">
                 <h2 class="black" data-aos="fade-left">Blueberry Blog</h2>
             </div>
-            <img src="images/blue1.png" alt="">
-            <!-- <div class="cs_image_pc_only">
-                <img src="images/blue1.png" alt="">
-                <img src="images/blue2.png" alt="">
-            </div> -->
-            <!-- <img src="images/blue6.png" alt=""> -->
+            <img src="images/blue1.png" alt="Blueberry Blog mockup">
             
             <div class="cs_text">
                 <h4>services</h4>
@@ -37,16 +32,16 @@
                 <br><br>
             </div>
             <!-- <img src="images/sketchnoters5.jpg" class="cs_image_pc_no" alt=""> -->
-            <img src="images/blue8.png" alt="">
+            <img src="images/blue8.png" alt="Landing page design">
             <div class="cs_text">
                 <h4>challenge</h4>
                 <p>In this project I solved how and where to store all the content created by individual users, how to sort it and how to display specific content for users when they request it.</p>
             </div>
             <div class="cs_image_pc_only">
-                <img src="images/blue4.png" alt="">
-                <img src="images/blue3.png" alt="">
+                <img src="images/blue4.png" alt="Register page design">
+                <img src="images/blue3.png" alt="User's profile design">
             </div>
-            <img src="images/blue2.png"  alt="">
+            <img src="images/blue2.png"  alt="Mobile mockups">
             <!-- <img src="images/sketchnoters3.jpg" alt="">
             <img src="images/sketchnoters4.png" alt=""> -->
             <div class="cs_text">
@@ -56,8 +51,8 @@
             </div>
             <!-- <img src="images/blue7.png" alt=""> -->
             
-            <img src="images/blue3.png" class="cs_image_pc_no" alt="">
-            <img src="images/blue4.png" class="cs_image_pc_no" alt="">
+            <img src="images/blue3.png" class="cs_image_pc_no" alt="User's profile design">
+            <img src="images/blue4.png" class="cs_image_pc_no" alt="Register page design">
             <!-- <div class="cs_image_pc_only">
                 <img src="images/sketchnoters5.jpg" alt="">
                 <img src="images/sketchnoters6.jpg" alt="">
@@ -65,7 +60,7 @@
         </div>
         <!-- right -->
         <div class="cs_right">
-            <img src="images/triangl.png" alt="" class="cs_tria">
+            <img src="images/triangl.png" alt="red triangle" class="cs_tria">
             <div class="cs_text">
                 <h4>services</h4>
                 <ul class="white">

@@ -17,7 +17,7 @@
             <div class="cs_top">
                 <h2 class="black" data-aos="fade-left">Lucie Hrbkova</h2>
             </div>
-            <img src="images/lucie5.jpg" alt="">
+            <img src="images/lucie5.jpg" alt="colorfull mobile designs">
             <div class="cs_text">
                 <h4>services</h4>
                     <ul class="white">
@@ -32,14 +32,14 @@
                 the user would enjoy and entertain them using UX. The Portfolio website truly reflects my admiration of the Bauhaus movement concept.</p>
                 <br><br>
             </div>
-            <img src="images/lucie6.jpg"alt="">
+            <img src="images/lucie6.jpg"alt="responsive webdesign">
             <div class="cs_text">
                 <h4>challenge</h4>
                 <p>Simplification of the design to work only with essential elements in primary colors - yellow circle, blue square and red triangle and interchangeable black & white color combinations.
                     <br>
                     During the development stage it was challenging to find ways to build and technically master all the interaction ideas that I came up with during the design phase.</p>
             </div>
-            <img src="images/lucie3.jpg"alt="">
+            <img src="images/lucie3.jpg"alt="Iphone mockup">
             <div class="cs_text">
                 <h4>process</h4>
                 <p>I have decided on a little experiment based on my favorite Bauhaus concept - less is more. <br>
@@ -59,8 +59,8 @@
                     Triangle is a symbol for movement, pointing, setting direction.<br>
                     Red - the color of action, confidence.</p>
             </div>
-            <img src="images/lucie7.jpg" alt="">
-            <img src="images/lucie8.jpg"alt="">
+            <img src="images/lucie7.jpg" alt="Black & White Landing page">
+            <img src="images/lucie8.jpg"alt="Lucie logo">
             <div class="cs_text">
                 <h4>solution</h4>
                 <p>The final solution is a minimalistic design full of interactions which allows the user to explore content. The basic elements guide the user through each section (bracket game in services, 
@@ -72,13 +72,13 @@
             </div>
             
             <!-- <img src="images/boom5.jpg" alt=""> -->
-            <img src="images/lucie4.jpg" alt="">
+            <img src="images/lucie4.jpg" alt="MackBook Mockup">
             
           
         </div>
         <!-- right -->
         <div class="cs_right">
-            <img src="images/triangl.png" alt="" class="cs_tria">
+            <img src="images/triangl.png" alt="red triangle" class="cs_tria">
             <div class="cs_text">
                 <h4>services</h4>
                 <ul class="white">
