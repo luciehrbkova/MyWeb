@@ -26,22 +26,20 @@
                 </ul>
                 <br><br>
                 <h4>brief</h4>
-                <p>To design and develop a website reflecting unique discipline - sketchnoting.</p>
+                <p>To design and develop a website reflecting a unique discipline - sketchnoting. </p>
                 <br><br>
             </div>
             <img src="images/sketchnoters5.jpg" class="cs_image_pc_no" alt="">
             <div class="cs_text">
                 <h4>challenge</h4>
-                <p>The studio needed professinal presentation of their work, information on the web should 
-                explain what is sketchnoting and possibly be a piece of art itself.</p>
+                <p>The studio needed a professional presentation of their work, information on the web should explain what sketchnoting is and how it could possibly be a piece of art itself.</p>
             </div>
             <img src="images/sketchnoters3b.jpg" alt="">
             <img src="images/sketchnoters4.png" alt="">
             <div class="cs_text">
                 <h4>solution</h4>
-                <p>I came with a concept of the web page as a plain canvas for emphasize hand-drawn illustrations
-                 and motion graphics displaying the process of drawing. The bright orange & dark-pink gradient 
-                 sections on the other hand are in contrast to it.</p>
+                <p>I came with the concept of the web page as a plain canvas that emphasizes hand-drawn illustrations and motion graphics to display the process of drawing. 
+                The bright orange & dark-pink gradient sections on the other hand contrast the white clean canvas.</p>
                  <br><br><br>
                 <a href="https://www.youtube.com/watch?v=8C2MAUeNFz4" target="_blank"><h4><span class="iconify" data-inline="false" data-icon="clarity:music-note-solid" style="color: #fff;"></span>Lala Land</h4></a>
                 <p>I discovered listening music helps me to focus on coding. In this project I listened the Lalaland soundtrack!</p>   
@@ -67,18 +65,16 @@
             </div>
             <div class="cs_text">
                 <h4>brief</h4>
-                <p>To design and develop a website reflecting unique discipline - sketchnoting.</p>
+                <p>To design and develop a website reflecting a unique discipline - sketchnoting. </p>
             </div>
             <div class="cs_text">
                 <h4>challenge</h4>
-                <p>The studio needed professinal presentation of their work, information on the web should 
-                explain what is sketchnoting and possibly be a piece of art itself.</p>
+                <p>The studio needed a professional presentation of their work, information on the web should explain what sketchnoting is and how it could possibly be a piece of art itself.</p>
             </div>
             <div class="cs_text">
                 <h4>solution</h4>
-                <p>I came with a concept of the web page as a plain canvas for emphasize hand-drawn illustrations
-                 and motion graphics displaying the process of drawing. The bright orange & dark-pink gradient 
-                 sections on the other hand are in contrast to it.</p>
+                <p>I came with the concept of the web page as a plain canvas that emphasizes hand-drawn illustrations and motion graphics to display the process of drawing.
+                 The bright orange & dark-pink gradient sections on the other hand contrast the white clean canvas.</p>
             </div>
             <div class="cs_text">
                 <a href="https://www.youtube.com/watch?v=8C2MAUeNFz4" target="_blank"><h4><span class="iconify" data-inline="false" data-icon="clarity:music-note-solid" style="color: #fff;"></span> Lala Land</h4></a>

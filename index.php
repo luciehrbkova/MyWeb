@@ -51,7 +51,6 @@
             <div class="table" id="table">
                 <div class="row">
                     <div class="sqx_first sqx" id="sq_one"></div>
-                    <!-- <h4 class="black">UŽIVATELSKÝ VÝZKUM & STRATEGIE </h4> -->
                     <h4 class="black">USER RESEARCH & STRATEGY </h4>
                 </div>
                 <div class="row">
@@ -60,7 +59,6 @@
                 </div>
                 <div class="row">
                     <div class="sqx" id="sq_three"></div>
-                    <!-- <h4 class="black">GRAFIKA</h4> -->
                     <h4 class="black">GRAPHICS</h4>
                 </div>
                 <div class="row">
@@ -69,43 +67,38 @@
                 </div>
                 <div class="row">
                     <div class="sqx" id="sq_five"></div>
-                    <!-- <h4 class="black">OPTIMALIZACE PRO VYHLEDÁVAČE</h4> -->
                     <h4 class="black">SEO</h4>
                 </div>
                 <div class="row">
                     <div class="sqx_back" id="sq_six"></div>
-                    <!-- <h4 class="black back_header">HOSTING A SPUŠTĚNÍ WEBU</h4> -->
                     <h4 class="black back_header">HOSTING & WEB LAUNCHING</h4>
                 </div>
             </div>
         </div>
 
         <div class="right background_black text_services" >
-            <p class="white" id="p_res">Proces is initiated by Competition Analysis and User Research. Definition of target users and their 
-            needs is fundamental for setting the strategy to meet these needs. Personas (fictive target users), Stylescapes (moodboards) 
+            <p class="white" id="p_res">The process is initiated by competition analysis and user research. The definition of the target audience 
+            and their needs is fundamental for setting up the strategy to meet these needs. Personas (fictive target users), Stylescapes (moodboards) 
             or surveys are popular methods to get desired results. </p>
 
-            <p class="white" id="p_des">During the Design phase we creating completed visual style and deal with User Experience - we are 
-            using Wireframes, Navigation Maps, Userflows etc. Designs are always responsive (adapting to mobile, tablet or desktop devices) 
-            and client gets interactive prototypes to better understaning of final product before the development phase begins.</p>
+            <p class="white" id="p_des">During the Design phase we create a complete visual style that touches on the User Experience - we are using 
+            Wireframes, Navigation Maps, User flows etc. Designs are always responsive (adapting to mobile, tablet or desktop devices) and clients 
+            get interactive prototypes to have a better understanding of the final product before the development phase begins.</p>
                 
-            <p class="white" id="p_gra">Unique graphics are indispensable part of Web Design, could be simple illustrations, particular 
-            icons or more complicated photography edits. Tailored Animation or video could be imaginary icing on the cake and I am able 
-            to deliver it from the initial storyboards, over production to the final editing.</p>
+            <p class="white" id="p_gra">Unique graphics are an indispensable part of Web Design, wether it’s simple illustrations, particular 
+            icons or more complicated photography edits. Tailored Animation or video could be the icing on the cake for your brand and I am 
+            able to deliver it from the initial storyboards to the final editing.</p>
 
-            <p class="white" id="p_dev">I develop Websites and Web Applications form scratch, tailored to client’s needs and fully 
-            responsive for all devices (mobil, table, desktop). CMS (Content Management System) and database could be connected as 
-            requred. Final product is thoroughly tested by Users before launching and optimized in terms of Accesibility, 
-            Performance, Best Practices, SEO etc.</p>
+            <p class="white" id="p_dev">I develop Websites and Web Applications form scratch, tailored to client’s needs and fully responsive for all
+             devices (mobile, tablet, desktop). CMS (Content Management System) and database systems could be connected as required. The final product 
+             is thoroughly tested by users before the product launch and is optimized in terms of Accessibility, Performance, Best Practices, SEO etc.</p>
 
-            <p class="white" id="p_seo">SEO (Search Engine Optimization) we take into account in begginigs of project, where carry out 
-            Key Words Analysis to get results for basement of the web content. Technical Optimisation for browsers is on during 
-            Development Phase and together with the high quality content creates the exceptional product catching attention 
-            of the target audience by its added value.</p>
+            <p class="white" id="p_seo">We consider SEO (Search Engine Optimization) during the start of the project, where we carry out Key Words Analysis
+             to get results for a solid foundation of the web content. Technical optimization for browsers is carried during the development phase and combined 
+             with the high quality content, creates the exceptional product that catches the target audiences attention by its added value.</p>
 
-            <p class="white" id="p_hos">The choice of the accurate and well memorable domain is essential. Followed by optimal hosting
-             solution and web security. After launch we analyse website traffic by Google Analytics or sets marketing campaignes by 
-             Google Ads. </p>
+            <p class="white" id="p_hos">The choice of an accurate and memorable domain name is essential. Followed by optimal hosting solutions and web security. 
+            After the launch we analyze website traffic using Google Analytics and set marketing campaigns with Google Ads. </p>
 
             <a href="#contact"><button class="black_button" id="ser_button_black">I am interested</button></a>
 
@@ -118,10 +111,11 @@
         <div class="left background_white">
             <img src="images/smiley.png" alt="" id="smiley">
             <h3 class="black">about</h3>
-            <p class="black">I am a Designer & Developer based in Edinburgh. I love to create. I use technologies as powerful tools to fulfill my creative vision. I believe in sophisticated solutions, where functionality meets beauty.
-                I admire architecture and art, museums and galleries will be always an infinite source of inspiration. I love to travel (on my own axis) and explore and observe different countries. <br><br>
+            <p class="black">I am a Designer & Developer based in Edinburgh. I love to create. I use technologies as powerful tools to fulfill my creative vision. I believe in sophisticated solutions, 
+            where functionality meets beauty. I admire architecture and art, museums and galleries will always be an infinite source of inspiration for me. I love travelling as I please to explore 
+            and observe different countries.<br><br>
             </p>
-            <p class="black" id="help_quote">I help clients to be the best version of their own on web.</p>
+            <p class="black" id="help_quote">I help clients become the best version of themselves on the web.</p>
 
                 <a href="#contact"><button class="white_button" id="help_button">Message me</button></a>
        
@@ -195,63 +189,55 @@
             <!-- TAB + DESKTOP -->
             <div class="project_challenge" id="challenge_sketchnoters">
                 <h4 class="white">challenge</h4>
-                <p class="white"> The studio needed professinal presentation of their work, information on the web should 
-                explain what is sketchnoting and possibly ...</p>
+                <p class="white"> The studio needed a professional presentation of their work, information on the web should explain what sketchnoting is and how it could possibly ...</p>
             </div>
             <div class="project_challenge" id="solution_sketchnoters">
                 <h4 class="white">solution</h4>
-                <p class="white">I came with a concept of the web page as a plain canvas for emphasize hand-drawn illustrations
-                 and motion graphics displaying ...</p>
+                <p class="white">I came with the concept of the web page as a plain canvas that emphasizes hand-drawn illustrations and motion graphics to display the process of drawing.</p>
             </div>
             <div class="project_challenge" id="challenge_boom">
                 <h4 class="white">challenge</h4>
-                <p class="white">Completely redesign current web and build an application where students would be 
-                able to independently create new content and tutors ...</p>
+                <p class="white">I had to completely redesign the current static web page and build an application where students would be able to edit their profiles ...</p>
             </div>
             <div class="project_challenge" id="solution_boom">
                 <h4 class="white">solution</h4>
-                <p class="white">To create a user system, where students will be able to individually
-                 create content, the admin control system for tutors above it and ...</p>
+                <p class="white">To create a user system, where students will be able to individually create shows, edit their presenters profiles and share other users content, with the admin control 
+                system ...</p>
             </div>
             <div class="project_challenge" id="challenge_berry">
                 <h4 class="white">challenge</h4>
-                <p class="white">In this project I had to solve how and where to store all the user's information and how 
-                to display desired information for users.</p>
+                <p class="white">To solved how and where to store all the content created by individual users, how to sort it and how to display specific content for users when they request it.</p>
             </div>
             <div class="project_challenge" id="solution_berry">
                 <h4 class="white">solution</h4>
-                <p class="white">The solution was to create a database driven web application. Registered users were able to edit their profiles, 
-                create articles and share it.</p>
+                <p class="white">The solution was to create a database driven web application. Registered users were able to edit their profiles and also create articles and share them. </p>
             </div>
             <div class="project_challenge" id="challenge_jana">
                 <h4 class="white">challenge</h4>
-                <p class="white">Our client was new in the business so firstly we had to analyse the market niche she would be able to fullfil to succeed.
+                <p class="white">Our client was new in the business so firstly we had to analyze the niche market that she would like to target for optimal success.
                 </p>
             </div>
             <div class="project_challenge" id="solution_jana">
                 <h4 class="white">solution</h4>
-                <p class="white">The final desing is decent 
-                and modern at the same time. Special emphasis was placed on testimonials to arouse confidence of new clients ...</p>
+                <p class="white">The final design is straightforward and modern at the same time. Special emphasis was placed on testimonials to build up confidence from new clients ...</p>
             </div>
             <div class="project_challenge" id="challenge_helena">
                 <h4 class="white">challenge</h4>
-                <p class="white">How to stand out between competition? How to create a quality product despite the reputation this
-                    field has in the Czech Republic?</p>
+                <p class="white">How to stand out from competitors? How to create a quality, trustworthy product despite the reputation this field has 
+                in the public opinion of Czech Republic?</p>
             </div>
             <div class="project_challenge" id="solution_helena">
                 <h4 class="white">solution</h4>
-                <p class="white">In a close cooperation with Helena we created unique content focused on client’s needs which could
-                 not be found anywhere else.</p>
+                <p class="white">With close cooperation with Helena, we created unique content focused on clients needs which would not be found anywhere else.</p>
             </div>
             <div class="project_challenge" id="challenge_lucie">
                 <h4 class="white">challenge</h4>
-                <p class="white">During the development stage it was challenging to find ways how to build and technically master all 
-                interaction ideas I came with in designs ...</p>
+                <p class="white">During the development stage it was challenging to find ways to build and technically master all the interaction ideas that I came up with ...</p>
             </div>
             <div class="project_challenge" id="solution_lucie">
                 <h4 class="white">solution</h4>
-                <p class="white">I have decided to preserve the decision for user to 
-                play with these two themes and fully enjoy and experience the potential of both colors ...</p>
+                <p class="white">I have decided to preserve the decision of the canvas color for 
+                the user to play with these two themes and fully enjoy and experience the potential of both colors ...</p>
             </div>
         </div>
 
@@ -267,9 +253,8 @@
             <div class="ref_container">
             <!-- reference 1 -->
             <div class="refcard" id="reference_card_1">
-            <p class="black">Lucie was recomended to me by one on my friend who was happy with her work. Perfect communication despite the long 
-            distance and very flexible to all my requirements. I am absolutly satisfied with the delivered outcome and will deffinitely 
-            recomend Lucie to work with.
+            <p class="black">Lucie was recommended to me by one of my friends who was happy with her work. Perfect communication despite working remotely and very flexible 
+            to all my requirements. I am absolutely satisfied with the delivered outcome and will definitely recommend working with Lucie.
                 <br><br>
             </p>
             <p class="black referee">Jana</p>
@@ -279,10 +264,9 @@
             
             <!-- reference 2 -->
             <div class="refcard" id="reference_card_2">
-                <p class="black">I required tailored web with original and interesting Design, content and functionality. Why this project was successful?
-                 Lucie and also Martin weork both really well and very professionaly. I was surprised mainly by the Research and overall 
-                 Analysis of my bussines, clients and presonality at the very beggining part of the project. 
-                 Amazing and professional attitude! Highly recommended!
+                <p class="black">I requested a tailored website with original and interesting design, content and functionality. Why was this project successful? 
+                Lucie, as well  as Martin both work really well and very professionaly. I was surprised mainly by the Research and overall Analysis of my bussiness, 
+                clients and presonality at the very begining part of the project. Amazing and professional attitude! Would highly recommend!
                     <br><br>
                 </p>
                 <p class="black referee">Helena</p>
@@ -291,9 +275,8 @@
                 </div>
             <!-- reference 3 -->
             <div class="refcard" id="reference_card_3">
-                <p class="black">Lucie was recomended to me by one on my friend who was happy with her work. Perfect communication despite the long 
-            distance and very flexible to all my requirements. I am absolutly satisfied with the delivered outcome and will deffinitely 
-            recomend Lucie to work with.
+                <p class="black">Lucie was recommended to me by one of my friends who was happy with her work. Perfect communication despite working remotely and very flexible 
+            to all my requirements. I am absolutely satisfied with the delivered outcome and will definitely recommend working with Lucie.
                     <br><br>
                 </p>
                 <p class="black referee">Colin</p>
