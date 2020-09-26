@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- style -->
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="https://use.typekit.net/wwr7myb.css">
+    <!-- js -->
+    <script src="myScript.js"></script>
+    <!-- or jquery online version -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <!-- fade in -->
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+    <title>Document</title>
+
+</head>
+<body>
+    <!-- HOME -->
+   <!-- MENU -->
+    <div id="mySidenav" class="sidenav">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+        <a href="index.html"><p>czech</p></a>
+        <a href="index.html#services"><p>services</p></a>
+        <a href="index.html#about"><p>about</p></a>
+        <a href="index.html#projects"><p>projects</p></a>
+        <a href="index.html#reference"><p>testimonials</p></a>
+        <a href="index.html#contact"><p>contact</p></a>
+    </div>
+    <!-- home -->
+    <section id="projects">
+        <div class="navbar">
+            <a href="index.html"><h1 class="black">lucie</h1></a>
+            <!-- black menu-->
+            <div class="nav_imgs" id="black_icons">
+                <img src="images/letter_black.png" alt=""  class="contact_letter" id="letter_img_black">
+                <img src="images/hmbg_black.png" alt="" onclick="openNav()" id="hmbg_img_black">
+            </div>
+            <!-- white menu-->
+            <div class="nav_imgs" id="white_icons">
+                <img src="images/letter_white.png" alt="" class="contact_letter" id="letter_img_white">
+                <img src="images/hmbg_white.png" alt=""  onclick="openNav()" id="hmbg_img_white">
+            </div>
+        </div>
+
+              <!-- PROJECTS -->
+    <section class="projects" id="allprojects">
+        <div class="left background_white">
+            <h3 class="black">projects</h3>
+            <!-- ONLY MOBILE -->
+                <!-- project 1 -->
+                <div class="project_card">
+                    <a href="casestudy_helena.html"><img src="images/pr_helena.jpg" alt="" class="cover"></a> 
+                    <div class="project_descr">
+                        <img src="images/triangle_right.png" alt="">
+                       <a href="casestudy_helena.html"><h4 class="black">Helena Kmochova Web</h4></a> 
+                    </div>
+                </div>
+                <!-- project 2 -->
+                <div class="project_card">
+                    <a href="casestudy_boom.html"><img src="images/pr_boom.jpg" alt="" class="cover"></a> 
+                    <div class="project_descr">
+                        <img src="images/triangle_right.png" alt="">
+                        <a href="casestudy_boom.html"><h4 class="black">Boom Radio WebApp</h4></a> 
+                    </div>
+                </div>
+                <!-- project 3 -->
+                <div class="project_card">
+                    <a href="casestudy_jana.html"><img src="images/pr_jana.jpg" alt="" class="cover"></a> 
+                    <div class="project_descr">
+                        <img src="images/triangle_right.png" alt="">
+                       <a href="casestudy_jana.html"><h4 class="black">Jana Novotna Web</h4></a> 
+                    </div>
+                </div>
+                <!-- project 4 -->
+                <div class="project_card">
+                    <a href="casestudy_blueberry.html"><img src="images/pr_berry.jpg" alt="" class="cover"></a> 
+                    <div class="project_descr">
+                        <img src="images/triangle_right.png" alt="">
+                        <a href="casestudy_blueberry.html"><h4 class="black">Blueberry Blog WebApp</h4></a> 
+                    </div>
+                </div>
+                <!-- project 5 -->
+                <div class="project_card">
+                    <a href="casestudy_lucie.html"><img src="images/pr_lucie.jpg" alt="" class="cover"></a> 
+                    <div class="project_descr">
+                        <img src="images/triangle_right.png" alt="">
+                       <a href="casestudy_lucie.html"><h4 class="black">Lucie Hrbkova Web</h4></a> 
+                    </div>
+                </div>
+                <!-- project 6 -->
+                <div class="project_card">
+                    <a href="casestudy_sketchnoters.html"><img src="images/project_sketch.jpg" alt="" class="cover"></a> 
+                    <div class="project_descr">
+                        <img src="images/triangle_right.png" alt="">
+                        <a href="casestudy_sketchnoters.html"><h4 class="black">Sketchnoters Web</h4></a> 
+                    </div>
+                </div>
+          
+        
+        <div class="right background_black">
+            <!-- ONLY MOBILE -->
+            <div class="more_container">
+                <img src="images/arrow_white.svg" alt="" id="moreProjectArrow">
+                <a href="index.html#projects"><p class="white">back to main page</p></a>
+            </div>
+            <!-- ------------------------------------ -->
+            
+        </div>
+
+      
+
+    </section>
+       
+
+    <!-- FOOTER -->
+    <section class="footer">
+        <div class="footer_container">
+            <div class="list">
+                <p>Home</p>
+                <p>Services</p>
+                <p>About</p>
+                <p>Projects</p>
+                <p>References</p>
+                <p>Contact</p>
+            </div>
+            <div class="links">
+                <img src="images/up.png" alt="">
+                <img src="images/insta.png" alt="">
+                <img src="images/linked.png" alt="">
+            </div>
+        </div>
+        <p class="copyright">© Lucie Hrbkova 2020</p>
+
+
+    </section>
+    
+</body>
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script>
+    AOS.init({
+        // offset: 120, // offset (in px) from the original trigger point
+        //delay: 0, // values from 0 to 3000, with step 50ms
+        duration: 2000, // values from 0 to 3000, with step 50ms
+        easing: 'ease', // default easing for AOS animations
+    });
+</script>
+</html>

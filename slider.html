@@ -1,0 +1,743 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- style -->
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="https://use.typekit.net/wwr7myb.css">
+    <!-- js -->
+    <script src="myScript.js"></script>
+    <!-- or jquery online version -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <!-- fade in -->
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+    <title>Document</title>
+
+</head>
+<body>
+    <!-- HOME -->
+    <!-- MENU -->
+    <div id="mySidenav" class="sidenav">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+        <a href="index.html"><p>czech</p></a>
+        <a href="index.html#services"><p>services</p></a>
+        <a href="index.html#about"><p>about</p></a>
+        <a href="index.html#projects"><p>projects</p></a>
+        <a href="index.html#reference"><p>testimonials</p></a>
+        <a href="index.html#contact"><p>contact</p></a>
+    </div>
+    <!-- home -->
+    <section id="home" class="home">
+        <div class="navbar">
+            <a href="index.html"><h1 class="black">lucie</h1></a>
+            <!-- black menu-->
+            <div class="nav_imgs" id="black_icons">
+                <a href="index.html#contact"><img src="images/letter_black.png" alt=""  class="contact_letter" id="letter_img_black"></a>
+                <img src="images/hmbg_black.png" alt="" onclick="openNav()" id="hmbg_img_black">
+            </div>
+            <!-- white menu-->
+            <div class="nav_imgs" id="white_icons">
+                <a href="index.html#contact"><img src="images/letter_white.png" alt="" class="contact_letter" id="letter_img_white"></a>
+                <img src="images/hmbg_white.png" alt=""  onclick="openNav()" id="hmbg_img_white">
+            </div>
+        </div>
+
+    </section>
+
+    <!-- SERVICES -->
+
+    <script>
+            
+       
+            $(document).ready(function()
+            {
+                var aa, bb, cc, xx
+                var challenge_out,solution_out,challenge_in,solution_in
+                var displayedProject = xx;
+                displayedProject = "sketchnoters";
+                var win = $(window);
+                enlarge(aa);
+                shrink(bb);
+                narrow(cc);
+                win.resize(enlarge);
+                win.resize(shrink);
+                win.resize(narrow);
+
+                // set general function
+                // ENLARGE
+                function enlarge(aa){
+                    // for tablet
+                    if (win.width() < 1100)
+                    {
+                        $(aa).animate(
+                        {
+                            width: "574px",
+                            height: "314px",
+
+                        }, "slow"
+                        )
+                    }
+                    // for desktop
+                    else
+                    {
+                        $(aa).animate(
+                        {
+                            width: "716px",
+                            height: "391px",
+
+                        }, "slow"
+                        )   
+                    }
+                
+                }
+                // SHRINK
+                function shrink(bb){
+                    // for tablet
+                    if (win.width() < 1100)
+                    {
+                        $(bb).animate(
+                        {
+                            width: "479px",
+                            height: "262px",
+
+                        }, "slow"
+                        )
+                    }
+                    else
+                    {
+                        $(bb).animate(
+                        {
+                            width: "588px",
+                            height: "321px",
+
+                        }, "slow"
+                        )
+                    }
+                    
+                }
+                // "0" WIDTH - narrow
+                function narrow(cc){
+                    $(cc).animate(
+                        {
+                            width: "0px",
+                            height: "262px",
+                            margin: "0px",
+                        }, "slow"
+                    )
+                }
+                function margins(d){
+                    $(d).animate(
+                        {
+                            margin: "10px"
+                        }, "fast"
+                    )
+                }
+                function fadeChallengeSolution(challenge_out,solution_out,challenge_in,solution_in){
+                    $(challenge_out).fadeOut(500);
+                    $(solution_out).fadeOut(500);
+                    $(challenge_in).delay(450).fadeIn(500);
+                    $(solution_in).delay(450).fadeIn(500);
+                }
+                
+                $("#triangle_button").click(function()
+                {
+
+                    if(displayedProject == "sketchnoters")
+                    {
+                        narrow("#project_zero");
+                        shrink("#project_one");
+                        enlarge("#project_two");
+                        shrink("#project_six");
+                        $("#slider_button_one").html("02/06");
+                        $("#slider_button_one").siblings().html("The Boom Radio");
+                        fadeChallengeSolution("#challenge_sketchnoters", "#solution_sketchnoters", "#challenge_boom", "#solution_boom");
+                        displayedProject = "boom";
+                    }
+                    else if (displayedProject == "boom")
+                    {
+                        narrow("#project_one");
+                        shrink("#project_two");
+                        enlarge("#project_three");
+                        $("#slider_button_one").html("03/06");
+                        $("#slider_button_one").siblings().html("Blueberry Blog");
+                        fadeChallengeSolution("#challenge_boom", "#solution_boom", "#challenge_berry", "#solution_berry");
+                        displayedProject = "berry";
+                    }
+                    else if (displayedProject == "berry")
+                    {
+                        narrow("#project_two");
+                        shrink("#project_three");
+                        enlarge("#project_four");
+                        $("#slider_button_one").html("04/06");
+                        $("#slider_button_one").siblings().html("Jana Novotna");
+                        fadeChallengeSolution("#challenge_berry", "#solution_berry", "#challenge_jana", "#solution_jana");
+                        displayedProject = "jana";
+                    }
+                    else if (displayedProject == "jana")
+                    {
+                        narrow("#project_three");
+                        shrink("#project_four");
+                        enlarge("#project_five");
+                        $("#slider_button_one").html("05/06");
+                        $("#slider_button_one").siblings().html("Helena Kmochova");
+                        fadeChallengeSolution("#challenge_jana", "#solution_jana", "#challenge_helena", "#solution_helena");
+                        displayedProject = "helena";
+                    }
+                    else if (displayedProject == "helena")
+                    {
+                        narrow("#project_four");
+                        shrink("#project_five");
+                        enlarge("#project_six");
+                        $("#slider_button_one").html("06/06");
+                        $("#slider_button_one").siblings().html("Lucie");
+                        fadeChallengeSolution("#challenge_helena", "#solution_helena", "#challenge_lucie", "#solution_lucie");
+                        displayedProject = "zero";
+                    }
+                    else if (displayedProject == "zero")
+                    {
+                        shrink("#project_two");
+                        enlarge("#project_one");
+                        margins("#project_zero");
+                        margins("#project_one");
+                        margins("#project_two");
+                        margins("#project_three");
+                        margins("#project_four");
+                        margins("#project_five");
+                        margins("#project_six");
+                        shrink("#project_three");
+                        shrink("#project_four");
+                        shrink("#project_five");
+                        narrow("#project_six");
+                        shrink("#project_zero");
+                        $("#slider_button_one").html("01/06");
+                        $("#slider_button_one").siblings().html("Sketchnoters");
+                        fadeChallengeSolution("#challenge_lucie", "#solution_lucie", "#challenge_sketchnoters", "#solution_sketchnoters");
+                        displayedProject = "sketchnoters";
+                    }
+                });
+            });
+
+    </script>
+    
+       
+
+    <!-- PROJECTS -->
+    <section class="projects" id="projects">
+        <div class="left background_white">
+            <h3 class="black">projects</h3>
+            <!-- ONLY MOBILE -->
+               
+            <!-- ------------------------------------ -->
+            <!-- TAB + DESKTOP -->
+            <div class="project_slider">
+                <div class="pr_side" id="project_zero"></div>
+                <a href="casestudy_sketchnoters.html"><div class="pr_main" id="project_one"></div></a>
+                <a href="casestudy_boom.html"><div class="pr_side" id="project_two"></div></a>
+                <div class="pr_side" id="project_three"></div>
+                <div class="pr_side" id="project_four"></div>
+                <div class="pr_side" id="project_five"></div>
+                <div class="pr_zero" id="project_six"></div>
+            </div>
+            <div class="pr_cont">
+                <div class="project_number" id="pr_one_sketchnoters">
+                    <h4 id="slider_button_one">01/06</h4>
+                    <h4>The Sketchnoters website</h4>
+                </div>
+                <!-- <div class="project_number" id="pr_two_boom">
+                    <h4 id="slider_button_two">02/06</h4>
+                    <h4>Blueberry Blog</h4>
+                </div> -->
+             </div>
+            
+
+        </div>
+        <div class="tria_div" id="triangle_button"><img src="images/triangle_right.png" alt="" id="pro_tria"></div>
+        
+        <div class="right background_black">
+            <!-- ONLY MOBILE -->
+            <div class="more_container">
+                <img src="images/arrow_white.svg" alt="">
+                <p class="white">view more projects</p>
+            </div>
+            <!-- ------------------------------------ -->
+            <!-- TAB + DESKTOP -->
+            <div class="project_challenge" id="challenge_sketchnoters">
+                <h4 class="white">challenge</h4>
+                <p class="white">The studio needed professinal presentation of their work, the web itself 
+                    should explain what is sketchnoting and possibly be a piece of art itself.</p>
+            </div>
+            <div class="project_challenge" id="solution_sketchnoters">
+                <h4 class="white">solution</h4>
+                <p class="white">I came with a concept of the web page as a plain canvas for emphasize 
+                    hand-drawed illustrations and motion graphics displaying the process of
+                    drawing.</p>
+            </div>
+            <div class="project_challenge" id="challenge_boom">
+                <h4 class="white">challenge</h4>
+                <p class="white">The studio needed professinal presentation of their work, the web itself 
+                    should explain what is sketchnoting and possibly be a piece of art itself.</p>
+            </div>
+            <div class="project_challenge" id="solution_boom">
+                <h4 class="white">solution</h4>
+                <p class="white">I came with a concept of the web page as a plain canvas for emphasize 
+                    hand-drawed illustrations and motion graphics displaying the process of
+                    drawing.</p>
+            </div>
+            <div class="project_challenge" id="challenge_berry">
+                <h4 class="white">challenge</h4>
+                <p class="white">The studio needed professinal presentation of their work, the web itself 
+                    should explain what is sketchnoting and possibly be a piece of art itself.</p>
+            </div>
+            <div class="project_challenge" id="solution_berry">
+                <h4 class="white">solution</h4>
+                <p class="white">I came with a concept of the web page as a plain canvas for emphasize 
+                    hand-drawed illustrations and motion graphics displaying the process of
+                    drawing.</p>
+            </div>
+            <div class="project_challenge" id="challenge_jana">
+                <h4 class="white">challenge</h4>
+                <p class="white">The studio needed professinal presentation of their work, the web itself 
+                    should explain what is sketchnoting and possibly be a piece of art itself.</p>
+            </div>
+            <div class="project_challenge" id="solution_jana">
+                <h4 class="white">solution</h4>
+                <p class="white">I came with a concept of the web page as a plain canvas for emphasize 
+                    hand-drawed illustrations and motion graphics displaying the process of
+                    drawing.</p>
+            </div>
+            <div class="project_challenge" id="challenge_helena">
+                <h4 class="white">challenge</h4>
+                <p class="white">The studio needed professinal presentation of their work, the web itself 
+                    should explain what is sketchnoting and possibly be a piece of art itself.</p>
+            </div>
+            <div class="project_challenge" id="solution_helena">
+                <h4 class="white">solution</h4>
+                <p class="white">I came with a concept of the web page as a plain canvas for emphasize 
+                    hand-drawed illustrations and motion graphics displaying the process of
+                    drawing.</p>
+            </div>
+            <div class="project_challenge" id="challenge_lucie">
+                <h4 class="white">challenge</h4>
+                <p class="white">The studio needed professinal presentation of their work, the web itself 
+                    should explain what is sketchnoting and possibly be a piece of art itself.</p>
+            </div>
+            <div class="project_challenge" id="solution_lucie">
+                <h4 class="white">solution</h4>
+                <p class="white">I came with a concept of the web page as a plain canvas for emphasize 
+                    hand-drawed illustrations and motion graphics displaying the process of
+                    drawing.</p>
+            </div>
+        </div>
+
+      
+
+    </section>
+
+    <!-- <div class="project_slider">
+        <div class="pr_left pr_side"></div>
+        <div class="pr_main"></div>
+        <div class="pr_right pr_side"></div>
+    </div> -->
+
+
+
+    
+</body>
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script>
+    AOS.init({
+        // offset: 120, // offset (in px) from the original trigger point
+        //delay: 0, // values from 0 to 3000, with step 50ms
+        duration: 2000, // values from 0 to 3000, with step 50ms
+        easing: 'ease', // default easing for AOS animations
+    });
+</script>
+</html>
+
+<script>
+            
+       
+    $(document).ready(function()
+    {
+
+        // SERVICES CUBES---------------------------------------------------------------------------
+        // set variables
+        var x,a,b,c,d,e,f,g;
+        var win = $(window);
+        moveFirstSq(a);
+        moveBackSq(x);
+        win.resize(moveFirstSq);
+        win.resize(moveBackSq);
+        
+        function moveFirstSq(a,b,c,d,e,f,g){
+            // for mobile
+            if (win.width() < 500)
+            {
+                var onRight = x;
+                $(a).click(function()
+                {
+                    if (!onRight)
+                    {
+                        $(this).animate({left: '290px'}, "slow");
+                        onRight = true;
+                    }
+                    else
+                    {
+                        $(this).animate({left: '0px'}, "slow");
+                        onRight = false;   
+                    }
+                    $(b).fadeIn('slow'); 
+                    $(c).hide();
+                    $(d).hide();
+                    $(e).hide();
+                    $(f).hide();
+                    $(g).hide();
+                });
+            }
+            // for tablet
+            else if (win.width() > 500 && win.width() < 1100 )
+            {
+                var onRight = false;
+                $(a).click(function()
+                {
+                    if (!onRight)
+                    {
+                        $(this).animate({left: '492px'}, "slow");
+                        onRight = true;
+                    }
+                    else
+                    {
+                        $(this).animate({left: '0px'}, "slow");
+                        onRight = false;   
+                    }
+                    $(b).fadeIn('slow'); 
+                    $(c).hide();
+                    $(d).hide();
+                    $(e).hide();
+                    $(f).hide();
+                    $(g).hide();
+                });
+            }
+            // for desktop
+            else
+            {
+                var onRight = false;
+                $(a).click(function()
+                {
+                    if (!onRight)
+                    {
+                        $(this).animate({left: '40vw' }, "slow");
+                        onRight = true;
+                    }
+                    else
+                    {
+                        $(this).animate({left: '0px'}, "slow");
+                        onRight = false;   
+                    }
+                    $(b).fadeIn('slow'); 
+                    $(c).hide();
+                    $(d).hide();
+                    $(e).hide();
+                    $(f).hide();
+                    $(g).hide();
+                });
+            }
+        };
+
+        function moveBackSq(x,b,c,d,e,f,g){
+            // for mobile
+            if (win.width() < 500)
+            {
+                var onRight = true;
+                $(x).click(function()
+                {
+                    if (onRight)
+                    {
+                        $(this).animate({left: '-290px'}, "slow");
+                        onRight = false;
+                    }
+                    else
+                    {
+                        $(this).animate({left: '0px'}, "slow");
+                        onRight = true;   
+                    }
+                    $(b).fadeIn('slow'); 
+                    $(c).hide();
+                    $(d).hide();
+                    $(e).hide();
+                    $(f).hide();
+                    $(g).hide();
+                });
+            }
+            // for tablet
+            else if (win.width() > 500 && win.width() < 1100 )
+            {
+                var onRight = true;
+                $(x).click(function()
+                {
+                    if (onRight)
+                    {
+                        $(this).animate({left: '-492px'}, "slow");
+                        onRight = false;
+                    }
+                    else
+                    {
+                        $(this).animate({left: '0px'}, "slow");
+                        onRight = true;   
+                    }
+                    $(b).fadeIn('slow'); 
+                    $(c).hide();
+                    $(d).hide();
+                    $(e).hide();
+                    $(f).hide();
+                    $(g).hide();
+                });
+            }
+            // for desktop
+            else
+            {
+                var onRight = true;
+                $(x).click(function()
+                {
+                    if (onRight)
+                    {
+                        $(this).animate({left: '-40vw'}, "slow");
+                        onRight = false; 
+                        
+                    }
+                    else
+                    {
+                        $(this).animate({left: '0px' }, "slow");
+                        onRight = true; 
+                    }
+                    $(b).fadeIn('slow'); 
+                    $(c).hide();
+                    $(d).hide();
+                    $(e).hide();
+                    $(f).hide();
+                    $(g).hide();
+                });
+            }
+        };
+
+        moveFirstSq("#sq_one","#p_res","#p_des","#p_gra","#p_dev","#p_seo", "#p_hos");
+        moveBackSq("#sq_two","#p_des","#p_res","#p_gra","#p_dev","#p_seo", "#p_hos");
+        moveFirstSq("#sq_three","#p_gra","#p_res","#p_des","#p_dev","#p_seo", "#p_hos");
+        moveBackSq("#sq_four","#p_dev","#p_gra","#p_res","#p_des","#p_seo", "#p_hos");
+        moveFirstSq("#sq_five","#p_seo", "#p_hos","#p_dev","#p_gra","#p_res","#p_des");
+        moveBackSq("#sq_six","#p_hos","#p_dev","#p_gra","#p_res","#p_des","#p_seo",);
+        
+        // REFERENCE --------------------------------------------------------------------------------
+        var refSlider, refCardFadeOut, refCardFadeIn, topMar, midMar, botMar, rotDeg
+        
+
+        function nextReference(refSlider, refCardFadeOut, refCardFadeIn,topMar, midMar, botMar, rotDeg)
+        {
+            $(refSlider).click(function()
+            {
+                var now
+                now = 180
+                $(refCardFadeOut).fadeOut(500);
+                $(refCardFadeIn).delay(450).fadeIn(500);
+                // $(topElem).animate({marginTop: '40px', opacity: '0.4'}, "slow");
+                $("#trojuhelnik_ref").animate({ marginTop: topMar, borderSpacing: rotDeg },
+                {
+                    step: function(now,fx) 
+                    {
+                        $("#trojuhelnik_ref").css('-webkit-transform','rotate('+now+'deg)'); 
+                    },duration:'slow'
+                }
+                ,1500);
+                $("#ctverec_ref").animate({marginTop: midMar, opacity: '1'}, 1000);
+                $("#kruh_ref").animate({marginTop: botMar, opacity: '1'}, 500);
+
+            });
+        }
+        nextReference("#sl_1_w","#reference_card_1","#reference_card_2","80px","0px","160px","0");
+        nextReference("#sl_2_w","#reference_card_2","#reference_card_3","0px","160px","80px","180");
+        nextReference("#sl_3_w","#reference_card_3","#reference_card_1","160px","80px","0px","180");
+        nextReference("#sl_1_b","#reference_card_1","#reference_card_2","80px","0px","160px","0");
+        nextReference("#sl_2_b","#reference_card_2","#reference_card_3","0px","160px","80px","180");
+        nextReference("#sl_3_b","#reference_card_3","#reference_card_1","160px","80px","0px","180");
+
+        // PROJECT SLIDER -----------------------------------------------------------------------
+
+        var aa, bb, cc, xx
+        var challenge_out,solution_out,challenge_in,solution_in
+        var displayedProject = xx;
+        displayedProject = "sketchnoters";
+        var win = $(window);
+        enlarge(aa);
+        shrink(bb);
+        narrow(cc);
+        win.resize(enlarge);
+        win.resize(shrink);
+        win.resize(narrow);
+
+        // set general function
+        // ENLARGE
+        function enlarge(aa){
+            // for tablet
+            if (win.width() < 1100)
+            {
+                $(aa).animate(
+                {
+                    width: "574px",
+                    height: "314px",
+
+                }, "slow"
+                )
+            }
+            // for desktop
+            else
+            {
+                $(aa).animate(
+                {
+                    width: "716px",
+                    height: "391px",
+
+                }, "slow"
+                )   
+            }
+        
+        }
+        // SHRINK
+        function shrink(bb){
+            // for tablet
+            if (win.width() < 1100)
+            {
+                $(bb).animate(
+                {
+                    width: "479px",
+                    height: "262px",
+
+                }, "slow"
+                )
+            }
+            else
+            {
+                $(bb).animate(
+                {
+                    width: "588px",
+                    height: "321px",
+
+                }, "slow"
+                )
+            }
+            
+        }
+        // "0" WIDTH - narrow
+        function narrow(cc){
+            $(cc).animate(
+                {
+                    width: "0px",
+                    height: "262px",
+                    margin: "0px",
+                }, "slow"
+            )
+        }
+        function margins(d){
+            $(d).animate(
+                {
+                    margin: "10px"
+                }, "fast"
+            )
+        }
+        function fadeChallengeSolution(challenge_out,solution_out,challenge_in,solution_in){
+            $(challenge_out).fadeOut(500);
+            $(solution_out).fadeOut(500);
+            $(challenge_in).delay(500).fadeIn(500);
+            $(solution_in).delay(500).fadeIn(500);
+        }
+        
+        var button
+
+        function portfolio(button)
+        {
+            $(button).click(function()
+        {
+
+            if(displayedProject == "sketchnoters")
+            {
+                narrow("#project_zero");
+                shrink("#project_one");
+                enlarge("#project_two");
+                shrink("#project_six");
+                $("#slider_button_one").html("02/06");
+                $("#slider_button_one").siblings().html("Blueberry Blog");
+                fadeChallengeSolution("#challenge_sketchnoters", "#solution_sketchnoters", "#challenge_berry", "#solution_berry");
+                displayedProject = "berry";
+            }
+            else if (displayedProject == "berry")
+            {
+                narrow("#project_one");
+                shrink("#project_two");
+                enlarge("#project_three");
+                $("#slider_button_one").html("03/06");
+                $("#slider_button_one").siblings().html("The Boom Radio");
+                fadeChallengeSolution("#challenge_berry", "#solution_berry", "#challenge_boom", "#solution_boom");
+                displayedProject = "boom";
+            }
+            else if (displayedProject == "boom")
+            {
+                narrow("#project_two");
+                shrink("#project_three");
+                enlarge("#project_four");
+                $("#slider_button_one").html("04/06");
+                $("#slider_button_one").siblings().html("Jana Novotna");
+                fadeChallengeSolution("#challenge_boom", "#solution_boom", "#challenge_jana", "#solution_jana");
+                displayedProject = "jana";
+            }
+            else if (displayedProject == "jana")
+            {
+                narrow("#project_three");
+                shrink("#project_four");
+                enlarge("#project_five");
+                $("#slider_button_one").html("05/06");
+                $("#slider_button_one").siblings().html("Helena Kmochova");
+                fadeChallengeSolution("#challenge_jana", "#solution_jana", "#challenge_helena", "#solution_helena");
+                displayedProject = "helena";
+            }
+            else if (displayedProject == "helena")
+            {
+                narrow("#project_four");
+                shrink("#project_five");
+                enlarge("#project_six");
+                $("#slider_button_one").html("06/06");
+                $("#slider_button_one").siblings().html("Lucie");
+                fadeChallengeSolution("#challenge_helena", "#solution_helena", "#challenge_lucie", "#solution_lucie");
+                displayedProject = "zero";
+            }
+            else if (displayedProject == "zero")
+            {
+                shrink("#project_two");
+                enlarge("#project_one");
+                margins("#project_zero");
+                margins("#project_one");
+                margins("#project_two");
+                margins("#project_three");
+                margins("#project_four");
+                margins("#project_five");
+                margins("#project_six");
+                shrink("#project_three");
+                shrink("#project_four");
+                shrink("#project_five");
+                narrow("#project_six");
+                shrink("#project_zero");
+                $("#slider_button_one").html("01/06");
+                $("#slider_button_one").siblings().html("Sketchnoters");
+                fadeChallengeSolution("#challenge_lucie", "#solution_lucie", "#challenge_sketchnoters", "#solution_sketchnoters");
+                displayedProject = "sketchnoters";
+            }
+        });
+
+
+
+        }
+
+        portfolio("#triangle_button");
+        portfolio("#slider_button_one");
+    });
+
+    
