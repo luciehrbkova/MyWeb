@@ -14,6 +14,11 @@
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
     <!-- favicon -->
     <link rel="icon" type="image/png" href="../images/favicon.png" />
+    <!-- image for social media links -->
+    <meta property="og:image" content="images/lucie5.jpg">
+    <meta property="og:image:type" content="image/jpg">
+    <meta property="og:image:width" content="200">
+    <meta property="og:image:height" content="137">
     <!-- noticka -->
     <script src="https://code.iconify.design/1/1.0.6/iconify.min.js"></script>
 <?php ?>

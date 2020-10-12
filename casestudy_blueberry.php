@@ -3,6 +3,13 @@
 <head>
     <!-- include head items -->
     <?php include'includes/head.php';?>
+    <!-- favicon -->
+    <link rel="icon" type="image/png" href="images/favicon.png" />
+    <!-- image for social media links -->
+    <meta property="og:image" content="images/lucie5.jpg">
+    <meta property="og:image:type" content="image/jpg">
+    <meta property="og:image:width" content="200">
+    <meta property="og:image:height" content="137">
     <title>Document</title>
 
 </head>
@@ -18,11 +25,6 @@
                 <h2 class="black" data-aos="fade-left">Blueberry Blog</h2>
             </div>
             <img src="images/blue1.png" alt="mobile mockups">
-            <!-- <div class="cs_image_pc_only">
-                <img src="images/blue1.png" alt="">
-                <img src="images/blue2.png" alt="">
-            </div> -->
-            <!-- <img src="images/blue6.png" alt=""> -->
             
             <div class="cs_text">
                 <h4>services</h4>

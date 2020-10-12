@@ -3,6 +3,13 @@
 <head>
     <!-- include head items -->
     <?php include'includes/head.php';?>
+    <!-- favicon -->
+    <link rel="icon" type="image/png" href="images/favicon.png" />
+    <!-- image for social media links -->
+    <meta property="og:image" content="images/lucie5.jpg">
+    <meta property="og:image:type" content="image/jpg">
+    <meta property="og:image:width" content="200">
+    <meta property="og:image:height" content="137">
     <title>Document</title>
 
 </head>
@@ -17,7 +24,7 @@
             <div class="cs_top">
                 <h2 class="black" data-aos="fade-left">Lucie Hrbkova</h2>
             </div>
-            <img src="../images/lucie5.jpg" alt="">
+            <img src="../images/lucie5.jpg" alt="barevný design">
             <div class="cs_text">
                 <h4>služby</h4>
                     <ul class="white">
@@ -33,13 +40,13 @@
                 uměleckého směru bauhaus.</p>
                 <br><br>
             </div>
-            <img src="../images/lucie6.jpg"alt="">
+            <img src="../images/lucie6.jpg"alt="responzivní design">
             <div class="cs_text">
                 <h4>výzva</h4>
                 <p>Výzvou bylo zjednodušení designu a pracovat pouze se základními prvky v elementárních barvách - žlutý kruh, modrý čtverec a červený trojúhelník a černo-bílá kombinace.
                     Během vývoje webu bylo náročné najít způsoby jak postavit a technicky zvládnout všechy interaktivní nápady, které jsem si stanovila ve fázi Designu.</p>
             </div>
-            <img src="../images/lucie3.jpg"alt="">
+            <img src="../images/lucie3.jpg"alt="mobilní mockup">
             <div class="cs_text">
                 <h4>proces</h4>
                 <p>Rozhodla jsem se pro malý experiment založený na myšenkách hnutí bauhaus - méně je více. Ponořila jsem se hluboko do analýzy mých profesionálních hodnot a pokusila se najít jejich ekvivalent v těchto základních prvcích.
@@ -59,8 +66,8 @@
                     - trojúhelník je synonymem pro pohyb, dynamiku, udává směr <br>
                     - červená znamená akci a sebevědomí</p>
             </div>
-            <img src="../images/lucie7.jpg" alt="">
-            <img src="../images/lucie8.jpg"alt="">
+            <img src="../images/lucie7.jpg" alt="černobílý homepage design">
+            <img src="../images/lucie8.jpg"alt="logo design">
             <div class="cs_text">
                 <h4>řešení</h4>
                 <p>Finálním řešením je minimalistický design plný interaktivním prvků, které uživatele nabádají objevovat informace. Základní prvky 
@@ -74,13 +81,13 @@
              
             
             <!-- <img src="../images/boom5.jpg" alt=""> -->
-            <img src="../images/lucie4.jpg" alt="">
+            <img src="../images/lucie4.jpg" alt="desktop mockup">
             
           
         </div>
         <!-- right -->
         <div class="cs_right">
-            <img src="../images/triangl.png" alt="" class="cs_tria">
+            <img src="../images/triangl.png" alt="red triangle" class="cs_tria">
             <div class="cs_text">
                 <h4>služby</h4>
                     <ul class="white">
@@ -171,9 +178,9 @@
             <a href="index.php#contact"><p>Kontakt</p></a>
         </div>
         <div class="links">
-            <a href="#navbar"><img src="../images/up.png" alt=""></a>
-            <a href="https://www.instagram.com/lucieweb.dev/"><img src="../images/insta.png" alt=""></a>
-            <a href="https://www.linkedin.com/in/luciehrbkova/"><img src="../images/linked.png" alt=""></a>
+            <a href="#navbar"><img src="../images/up.png" alt="arrow up"></a>
+            <a href="https://www.instagram.com/lucieweb.dev/"><img src="../images/insta.png" alt="insta icon"></a>
+            <a href="https://www.linkedin.com/in/luciehrbkova/"><img src="../images/linked.png" alt="LinkedIn icon"></a>
         </div>
     </div>
     <p class="copyright">© Lucie Hrbkova 2020</p>
