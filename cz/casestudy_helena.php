@@ -17,7 +17,7 @@
             <div class="cs_top">
                 <h2 class="black" data-aos="fade-left">Helena Kmochová</h2>
             </div>
-            <img src="../images/helena2.jpg" alt="">
+            <img src="../images/helena2.jpg" alt="mobil design">
             <div class="cs_text">
                 <h4>služby</h4>
                     <ul class="white">
@@ -36,8 +36,8 @@
                 <br><br>
             </div>
 
-            <img src="../images/helena6.jpg"alt="">
-            <img src="../images/helena7.jpg"alt="">
+            <img src="../images/helena6.jpg"alt="unikátní ilustrace">
+            <img src="../images/helena7.jpg"alt="stylescape projektu">
 
             <div class="cs_text">
                 <h4>spolupráce</h4>
@@ -48,15 +48,15 @@
                     Jak vytvořit produkt, který podpoří Heleny práci, pomůže jí získat důvěru v její služby a poslouží jako pracovní nástroj, který bude denně používat? A konečně jak z něj 
                     udělat nástroj pro akvizici nových klientů?</p>
             </div>
-            <img src="../images/helena1.jpg"alt="">
+            <img src="../images/helena1.jpg"alt="responyivní design">
             <div class="cs_text">
                 <h4>řešení</h4>
                 <p>V úzké spolupráci s Helenou  jsme dali dohromady unikátní obsah reflektující potřeby jejích klientů, informace, které na webu nejsou běžně dostupné, protože vychází z její
                      mnohaleté zkušenosti (např. v hypoteční sekci - 3 kroky pro zisk hypotéky, detailní časová osa průběhu vyřízení hypotéky atd ). V praxi pak klienti přijali informace za své. 
                      Web pomohl zjednodušit práci s klienty a budovat pozitivní vztahy, což bylo jedním z hlavních cílů.</p>
             </div>
-            <img src="../images/helena3.jpg" alt="">
-            <img src="../images/helena4.jpg" alt="">
+            <img src="../images/helena3.jpg" alt="Helenin avatar">
+            <img src="../images/helena4.jpg" alt="ikony pro web">
 
             <div class="cs_text">
                 <h4>process</h4>
@@ -68,12 +68,12 @@
                 <a href="https://www.youtube.com/watch?v=gUSVCwcPS0w&list=PLjuQJKscnqT_S1aYuuMNzhKu6r3uphIz2" target="_blank"><h4><span class="iconify" data-inline="false" data-icon="clarity:music-note-solid" style="color: #fff;"></span> Tomáš Klus</h4></a>
                     <p>Hudba mi pomáhá udržet se během kódování v rytmu. V tomto projektu jsem se nechávala unášet songy Tomáše Kluse a Kryštofa.</p>   
                 <br><br><br>
-                <a href="https://www.helenakmochova.cz/" target="_blank"><p><img src="../images/arrow_w.svg" alt="" class="arrow">  zobrazit projekt</p></a>
+                <a href="https://www.helenakmochova.cz/" target="_blank"><p><img src="../images/arrow_w.svg" alt="arrow" class="arrow">  zobrazit projekt</p></a>
             
             </div>
             
             <!-- <img src="../images/boom5.jpg" alt=""> -->
-            <img src="../images/helena5.jpg" alt="">
+            <img src="../images/helena5.jpg" alt="tablet design">
             
           
         </div>
@@ -83,7 +83,7 @@
                     
                
         <div class="cs_right">
-            <img src="../images/triangl.png" alt="" class="cs_tria">
+            <img src="../images/triangl.png" alt="červený trojúhelník" class="cs_tria">
             <div class="cs_text">
                 <h4>služby</h4>
                 <ul class="white">
@@ -131,7 +131,7 @@
                     <p>Hudba mi pomáhá udržet se během kódování v rytmu. V tomto projektu jsem se nechávala unášet songy Tomáše Kluse a Kryštofa.</p>    
             </div>
             <div class="cs_text">
-                <a href="https://www.helenakmochova.cz/" target="_blank"><p> <img src="../images/arrow_w.svg" alt="" class="arrow">  zobrazit projekt</p></a>
+                <a href="https://www.helenakmochova.cz/" target="_blank"><p> <img src="../images/arrow_w.svg" alt="arrow" class="arrow">  zobrazit projekt</p></a>
             </div>
            
             
@@ -170,9 +170,9 @@
             <a href="index.php#contact"><p>Kontakt</p></a>
         </div>
         <div class="links">
-            <a href="#navbar"><img src="../images/up.png" alt=""></a>
-            <a href="https://www.instagram.com/lucieweb.dev/"><img src="../images/insta.png" alt=""></a>
-            <a href="https://www.linkedin.com/in/luciehrbkova/"><img src="../images/linked.png" alt=""></a>
+            <a href="#navbar"><img src="../images/up.png" alt="arrow up"></a>
+            <a href="https://www.instagram.com/lucieweb.dev/"><img src="../images/insta.png" alt="insta icon"></a>
+            <a href="https://www.linkedin.com/in/luciehrbkova/"><img src="../images/linked.png" alt="LinkedIn icon"></a>
         </div>
     </div>
     <p class="copyright">© Lucie Hrbkova 2020</p>

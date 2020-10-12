@@ -17,7 +17,7 @@
             <div class="cs_top">
                 <h2 class="black" data-aos="fade-left">Jana Novotna</h2>
             </div>
-            <img src="images/jana1.jpg" alt="">
+            <img src="images/jana1.jpg" alt="desktop design">
             <div class="cs_text">
                 <h4>services</h4>
                     <ul class="white">
@@ -30,7 +30,7 @@
                 <p>To create a website for an entrepreneur who had recently decided to start a business as a german lecture and interpreter. 
                 The website should represent herself as well as her services and become a source to get new clients.</p>
             </div>
-            <img src="images/jana7.jpg"alt="">
+            <img src="images/jana7.jpg"alt="final stylescapes">
             <div class="cs_text">
                 <h4>client</h4>
                 <p>Jana Novotna is an entrepreneur offering translation services and teaching German.</p>
@@ -38,20 +38,20 @@
                 <h4>collaboration</h4>
                 <p>In this project I collaborated closely with tallented designer <a href="https://www.behance.net/martinnovotny93?tracking_source=search%7Cmartin%20novotny">Martin Novotny</a>.</p>
             </div>
-            <img src="images/jana4.jpg"alt="">
+            <img src="images/jana4.jpg"alt="responsive design">
             <div class="cs_text">
                 <h4>challenge</h4>
                 <p>Our client was new in the business so firstly we had to analyze the niche market that she would like to target for optimal success.
                     Also we had to solve how to catch the attention of conservative potential customers. And generally, how to get the trust of new customers.</p>
             </div>
-            <img src="images/jana3.jpg"alt="">
+            <img src="images/jana3.jpg"alt="services design">
             <div class="cs_text">
                 <h4>process</h4>
                 <p>At the beginning of the process we have designed a selection of different stylescapes to perfectly match the client’s taste and desired direction.
                     While creating content, we used personas to represent potential customers and create content tailored to them individually.
                     For example: A female interested in doing an au pair experience in order to get a better paid job in a different country.</p>
             </div>
-            <img src="images/jana2.jpg" alt="">
+            <img src="images/jana2.jpg" alt="mobile mockups">
             <div class="cs_text">
                 <h4>solution</h4>
                 <p>We built a website reflecting Jana’s original approach - aiming for different target groups. We created content that attracts female au pairs, job seekers,
@@ -61,17 +61,17 @@
                 <a href="https://www.youtube.com/watch?v=0lqsZTcGjR4" target="_blank"><h4><span class="iconify" data-inline="false" data-icon="clarity:music-note-solid" style="color: #fff;"></span>Jason Mraz</h4></a>
                     <p>I discovered listening to music helps me focus on coding. I have return to my favourite artist: Jason Mraz.</p>   
                 <br><br>
-                <a href="http://jananovotna.co/" target="_blank"><p><img src="images/arrow_w.svg" alt="" class="arrow">  view project</p></a>
+                <a href="http://jananovotna.co/" target="_blank"><p><img src="images/arrow_w.svg" alt="arrow" class="arrow">  view project</p></a>
             </div>
             
             <!-- <img src="images/boom5.jpg" alt=""> -->
-            <img src="images/jana5.jpg" alt="">
+            <img src="images/jana5.jpg" alt="tablet designs">
             
           
         </div>
         <!-- right -->
         <div class="cs_right">
-            <img src="images/triangl.png" alt="" class="cs_tria">
+            <img src="images/triangl.png" alt="red triangle" class="cs_tria">
             <div class="cs_text">
                 <h4>services</h4>
                     <ul class="white">
@@ -115,7 +115,7 @@
             <p>I discovered listening to music helps me focus on coding. I have return to my favourite artist: Jason Mraz.</p>    
             </div>
             <div class="cs_text">
-            <a href="http://jananovotna.co/" target="_blank"><p><img src="images/arrow_w.svg" alt="" class="arrow">  view project</p></a>
+            <a href="http://jananovotna.co/" target="_blank"><p><img src="images/arrow_w.svg" alt="arrow" class="arrow">  view project</p></a>
             </div>
             
             <!-- FORM -->

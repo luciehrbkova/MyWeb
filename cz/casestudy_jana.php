@@ -17,7 +17,7 @@
             <div class="cs_top">
                 <h2 class="black" data-aos="fade-left">Jana Novotná</h2>
             </div>
-            <img src="../images/jana1.jpg" alt="">
+            <img src="../images/jana1.jpg" alt="design home page">
             <div class="cs_text">
                 <h4>služby</h4>
                     <ul class="white">
@@ -31,7 +31,7 @@
                     o nabízených službách, přiblížit Janu jako osobnost a pomoci jí rozšířit řady klientů.</p>
                 <br><br>
             </div>
-            <img src="../images/jana7.jpg"alt="">
+            <img src="../images/jana7.jpg"alt="finalní stylescapes">
             <div class="cs_text">
                 <h4>klient</h4>
                 <p>Jana Novotná je na volné noze a nabízí překladatelské služby a výuku němčiny. </p>
@@ -39,21 +39,21 @@
                 <h4>spolupráce</h4>
                 <p>Na tomto projetu jsem úzce spolupracovala s talentovaným designérem <a href="https://www.behance.net/martinnovotny93?tracking_source=search%7Cmartin%20novotny">  Martinem Novotným</a>.</p>
             </div>
-            <img src="../images/jana4.jpg"alt="">
+            <img src="../images/jana4.jpg"alt="responzivní design">
             <div class="cs_text">
                 <h4>výzva</h4>
                 <p>Klientka v nedávné době založila svůj byznys, takže jsme nejříve pomohli analyzovat tržní příležitost, kde vynikne, aby uspěla. 
                     Také jsme museli řešit jak si získat pozornost konzervativních cílových zákazníků. A obecně jak získat důvěru nových zákazníků pomocí webu.</p>
             </div>
 
-            <img src="../images/jana3.jpg"alt="">
+            <img src="../images/jana3.jpg"alt="design služeb">
             <div class="cs_text">
                 <h4>proces</h4>
                 <p>Na začátku procesu jsme vyrobily tzv. stylescapy - designové nástěnky v několika variatnách, abychom společně s klientkou perfektně definovali směr reflektující její vkus. 
                     Během tvorby obsahu jsme používali persony (příklad cílového uživatele) a obsah přizpůsobovali jejich potřebám individuálně (dívka uvažující o aupair, pracovník, 
                     který by rád získal lépe placenou práci v zahraničí).</p>
             </div>
-            <img src="../images/jana2.jpg" alt="">
+            <img src="../images/jana2.jpg" alt="mobilní design">
             <div class="cs_text">
                 <h4>řešení</h4>
                 <p>Postavili jsme web, který odráží Janin originální přístup - mířit na různé cílové skupiny uživatelů a vytvořili jsme obsah atraktivní pro každého zvlášť. 
@@ -63,17 +63,17 @@
                 <a href="https://www.youtube.com/watch?v=0lqsZTcGjR4" target="_blanc"><h4><span class="iconify" data-inline="false" data-icon="clarity:music-note-solid" style="color: #fff;"></span>Jason Mraz</h4></a>
                     <p>Hudba mi pomáhá udržet se během kódování v rytmu. Tento projekt mi zpříjemnil Jason Mraz.</p>   
                 <br><br>
-                <a href="http://jananovotna.co/" target="_blanc"><p><img src="../images/arrow_w.svg" alt="" class="arrow">  zobrazit projekt</p></a>
+                <a href="http://jananovotna.co/" target="_blanc"><p><img src="../images/arrow_w.svg" alt="arrow" class="arrow">  zobrazit projekt</p></a>
             </div>
             
             <!-- <img src="../images/boom5.jpg" alt=""> -->
-            <img src="../images/jana5.jpg" alt="">
+            <img src="../images/jana5.jpg" alt="tablet designs">
             
           
         </div>
         <!-- right -->
         <div class="cs_right">
-            <img src="../images/triangl.png" alt="" class="cs_tria">
+            <img src="../images/triangl.png" alt="red triangle" class="cs_tria">
             <div class="cs_text">
                 <h4>služby</h4>
                     <ul class="white">
@@ -118,7 +118,7 @@
                 <p>Hudba mi pomáhá udržet se během kódování v rytmu. Tento projekt mi zpříjemnil Jason Mraz.</p>  
             </div>
             <div class="cs_text">
-                <a href="http://jananovotna.co/" target="_blanc"><p> <img src="../images/arrow_w.svg" alt="" class="arrow">  zobrazit projekt</p></a>
+                <a href="http://jananovotna.co/" target="_blanc"><p> <img src="../images/arrow_w.svg" alt="arrow" class="arrow">  zobrazit projekt</p></a>
             </div>
 
             <!-- FORM -->
@@ -156,9 +156,9 @@
             <a href="index.php#contact"><p>Kontakt</p></a>
         </div>
         <div class="links">
-            <a href="#navbar"><img src="../images/up.png" alt=""></a>
-            <a href="https://www.instagram.com/lucieweb.dev/"><img src="../images/insta.png" alt=""></a>
-            <a href="https://www.linkedin.com/in/luciehrbkova/"><img src="../images/linked.png" alt=""></a>
+            <a href="#navbar"><img src="../images/up.png" alt="arrow up"></a>
+            <a href="https://www.instagram.com/lucieweb.dev/"><img src="../images/insta.png" alt="insta icon"></a>
+            <a href="https://www.linkedin.com/in/luciehrbkova/"><img src="../images/linked.png" alt="LinkedIn icon"></a>
         </div>
     </div>
     <p class="copyright">© Lucie Hrbkova 2020</p>

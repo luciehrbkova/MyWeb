@@ -17,7 +17,7 @@
             <div class="cs_top">
                 <h2 class="black" data-aos="fade-left">The Sketchnoters</h2>
             </div>
-            <img src="../images/sketchnoters1.jpg" alt="">
+            <img src="../images/sketchnoters1.jpg" alt="webdesign">
             <div class="cs_text">
                 <h4>služby</h4>
                 <ul class="white">
@@ -29,14 +29,14 @@
                 <p>Design a vývoj webové prezentace grafického dua Sketchnoters.</p>
                 <br><br>
             </div>
-            <img src="../images/sketchnoters5.jpg" class="cs_image_pc_no" alt="">
+            <img src="../images/sketchnoters5.jpg" class="cs_image_pc_no" alt="sketchnoters mockup">
             <div class="cs_text">
                 <h4>výzva</h4>
                 <p>Studio Sketchnoters potřebovalo profesionální prezentaci vlastní práce, informace na webu měly uživateli přiblížit, co to vlastně sketchnoting je.
                 Požadavkem bylo zahrnout myšlenku kreslení do celého webu.</p>
             </div>
-            <img src="../images/sketchnoters3b.jpg" alt="">
-            <img src="../images/sketchnoters4.png" alt="">
+            <img src="../images/sketchnoters3b.jpg" alt="sketchnoters design">
+            <img src="../images/sketchnoters4.png" alt="mobile design">
             <div class="cs_text">
                 <h4>řešení</h4>
                 <p>Design webu vycházel z konceptu webové stránky jako bílého plátna pro zdůraznění ručně tvořených ilustrací a animací 
@@ -45,18 +45,18 @@
                 <a href="https://www.youtube.com/watch?v=8C2MAUeNFz4" target="_blank"><h4><span class="iconify" data-inline="false" data-icon="clarity:music-note-solid" style="color: #fff;"></span> Lala Land</h4></a>
                 <p>Hudba mi pomáhá udržet se během kódování v rytmu. V tomto projektu mě bavilo poslouchat soundtrack k filmu Lala Land.</p>   
                 <br><br><br>
-                <a href="http://thesketchnoters.com/" target="_blank"><p><img src="../images/arrow_w.svg" alt="" class="arrow">  zobrazit projekt</p></a>
+                <a href="http://thesketchnoters.com/" target="_blank"><p><img src="../images/arrow_w.svg" alt="arrow" class="arrow">  zobrazit projekt</p></a>
             </div>
             
-            <img src="../images/sketchnoters6.jpg" class="cs_image_pc_no" alt="">
+            <img src="../images/sketchnoters6.jpg" class="cs_image_pc_no" alt="gradient design colors">
             <div class="cs_image_pc_only">
-                <img src="../images/sketchnoters5.jpg" alt="">
-                <img src="../images/sketchnoters6.jpg" alt="">
+                <img src="../images/sketchnoters5.jpg" alt="sketchnoters website">
+                <img src="../images/sketchnoters6.jpg" alt="design showcase">
             </div>
         </div>
         <!-- right -->
         <div class="cs_right">
-            <img src="../images/triangl.png" alt="" class="cs_tria">
+            <img src="../images/triangl.png" alt="red triangle" class="cs_tria">
             <div class="cs_text">
                 <h4>služby</h4>
                 <ul class="white">
@@ -83,7 +83,7 @@
                 <p>Hudba mi pomáhá udržet se během kódování v rytmu. V tomto projektu mě bavilo poslouchat soundtrack k filmu Lala Land.</p>   
             </div>
             <div class="cs_text">
-            <a href="http://thesketchnoters.com/"><p> <img src="../images/arrow_w.svg" alt="" class="arrow">  zobrazit projekt</p></a>
+            <a href="http://thesketchnoters.com/"><p> <img src="../images/arrow_w.svg" alt="arrow" class="arrow">  zobrazit projekt</p></a>
             </div>
             
             <!-- FORM -->
@@ -122,9 +122,9 @@
             <a href="index.php#contact"><p>Kontakt</p></a>
         </div>
         <div class="links">
-            <a href="#navbar"><img src="../images/up.png" alt=""></a>
-            <a href="https://www.instagram.com/lucieweb.dev/"><img src="../images/insta.png" alt=""></a>
-            <a href="https://www.linkedin.com/in/luciehrbkova/"><img src="../images/linked.png" alt=""></a>
+            <a href="#navbar"><img src="../images/up.png" alt="arrow up"></a>
+            <a href="https://www.instagram.com/lucieweb.dev/"><img src="../images/insta.png" alt="insta icon"></a>
+            <a href="https://www.linkedin.com/in/luciehrbkova/"><img src="../images/linked.png" alt="LinkedIn icon"></a>
         </div>
     </div>
     <p class="copyright">© Lucie Hrbkova 2020</p>

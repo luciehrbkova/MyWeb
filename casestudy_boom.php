@@ -16,7 +16,7 @@
             <div class="cs_top">
                 <h2 class="black" data-aos="fade-left">The Boom Radio</h2>
             </div>
-            <img src="images/boom1.jpg" alt="">
+            <img src="images/boom1.jpg" alt="Boom radio mobile design">
             <div class="cs_text">
                 <h4>services</h4>
                     <ul>
@@ -30,7 +30,7 @@
                 <br><br>
             </div>
             
-            <img src="images/boom2.jpg" alt="">
+            <img src="images/boom2.jpg" alt="main page design">
             <div class="cs_text">
                 <h4>client</h4>
                 <p>Bradcasting course tutor at Edinburgh College and Fife College.</p>
@@ -40,14 +40,14 @@
                 shows, news and content. Tutors would have the ability to manage all content using the admin section. The challenge was to find a compromise between customizations 
                 and the systems unified look.</p>
             </div>
-            <img src="images/boom7.jpg" alt="">
+            <img src="images/boom7.jpg" alt="tablet design">
             <div class="cs_text">
                 <h4>solution</h4>
                 <p>I came with the solution to create a user system, where students will be able to individually create shows, edit their presenters profiles and share other users content, 
                 with the admin control system above it and a public website, where the actual content will be displayed, completely running from database. A wide set of templates is available
                  for users to customize their content but the overall look will remain unified.</p>
             </div>
-            <img src="images/boom3.jpg" alt="">
+            <img src="images/boom3.jpg" alt="user interface design">
             <div class="cs_text">
                 <h4>process</h4>
                 <p>In the beginning of the project I have deeply dived into competition research and carried out a survey for tens of students to gather information and ideas. 
@@ -59,13 +59,13 @@
             </div>
             
             <!-- <img src="images/boom5.jpg" alt=""> -->
-            <img src="images/boom6.jpg" alt="">
+            <img src="images/boom6.jpg" alt="tablet design Boom Radio">
             
           
         </div>
         <!-- right -->
         <div class="cs_right">
-            <img src="images/triangl.png" alt="" class="cs_tria">
+            <img src="images/triangl.png" alt="red triangle" class="cs_tria">
             <div class="cs_text">
                 <h4>services</h4>
                 <ul>

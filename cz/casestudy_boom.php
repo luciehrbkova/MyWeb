@@ -16,7 +16,7 @@
             <div class="cs_top">
                 <h2 class="black" data-aos="fade-left">The Boom Radio</h2>
             </div>
-            <img src="../images/boom1.jpg" alt="">
+            <img src="../images/boom1.jpg" alt="Boom Radio mobil design">
             <div class="cs_text">
                 <h4>služby</h4>
                     <ul>
@@ -32,7 +32,7 @@
                 <br><br>
             </div>
             
-            <img src="../images/boom2.jpg" alt="">
+            <img src="../images/boom2.jpg" alt="Hlavni strana design">
             <div class="cs_text">
                 <h4>klient</h4>
                 <p>Vedoucí kurzu Radiového vysílání na Edinburgh College a Fife College.</p>
@@ -42,7 +42,7 @@
                 a lektorům poskytne funkci administrace veškerého obsahu. Výzvou bylo také najít kompromis mezi jednotným 
                     designem profilů a možností pro uživatele upravit si ho dle svého vkusu.</p>
             </div>
-            <img src="../images/boom7.jpg" alt="">
+            <img src="../images/boom7.jpg" alt="tablet design">
             <div class="cs_text">
                 <h4>řešení</h4>
                 <p>Výsledným řešením byla aplikace se třemi urovněmi uživatelů. Uživatelé - Studenti můžou po schválené registraci 
@@ -53,7 +53,7 @@
                     studenty pak nabízí dostatečnou možnost profily personifikovat, avšak celkový design zůstává sjednocený.</p>
                 
             </div>
-            <img src="../images/boom3.jpg" alt="">
+            <img src="../images/boom3.jpg" alt="design Boom Radio">
             <div class="cs_text">
                 <h4>proces</h4>
                 <p>V počátcích projektu jsem provedla důkladný průzkum a analýzu konkurence a anketu mezi desítkami studentů pro získání důležitých informací 
@@ -66,13 +66,13 @@
                 
             </div>
         
-            <img src="../images/boom6.jpg" alt="">
+            <img src="../images/boom6.jpg" alt="tablet design Boom radio">
             
           
         </div>
         <!-- right -->
         <div class="cs_right">
-            <img src="../images/triangl.png" alt="" class="cs_tria">
+            <img src="../images/triangl.png" alt="červený trojúhelník" class="cs_tria">
             <div class="cs_text">
                 <h4>služby</h4>
                 <ul>
@@ -152,9 +152,9 @@
             <a href="index.php#contact"><p>Kontakt</p></a>
         </div>
         <div class="links">
-            <a href="#navbar"><img src="../images/up.png" alt=""></a>
-            <a href="https://www.instagram.com/lucieweb.dev/"><img src="../images/insta.png" alt=""></a>
-            <a href="https://www.linkedin.com/in/luciehrbkova/"><img src="../images/linked.png" alt=""></a>
+            <a href="#navbar"><img src="../images/up.png" alt="arrow up"></a>
+            <a href="https://www.instagram.com/lucieweb.dev/"><img src="../images/insta.png" alt="insta icon"></a>
+            <a href="https://www.linkedin.com/in/luciehrbkova/"><img src="../images/linked.png" alt="linkedIn icon"></a>
         </div>
     </div>
     <p class="copyright">© Lucie Hrbkova 2020</p>

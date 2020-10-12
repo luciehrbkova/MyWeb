@@ -17,7 +17,7 @@
             <div class="cs_top">
                 <h2 class="black" data-aos="fade-left">The Sketchnoters</h2>
             </div>
-            <img src="images/sketchnoters1.jpg" alt="">
+            <img src="images/sketchnoters1.jpg" alt="sketchnoters design">
             <div class="cs_text">
                 <h4>sercices</h4>
                 <ul class="white">
@@ -29,13 +29,13 @@
                 <p>To design and develop a website reflecting a unique discipline - sketchnoting. </p>
                 <br><br>
             </div>
-            <img src="images/sketchnoters5.jpg" class="cs_image_pc_no" alt="">
+            <img src="images/sketchnoters5.jpg" class="cs_image_pc_no" alt="mobile design">
             <div class="cs_text">
                 <h4>challenge</h4>
                 <p>The studio needed a professional presentation of their work, information on the web should explain what sketchnoting is and how it could possibly be a piece of art itself.</p>
             </div>
-            <img src="images/sketchnoters3b.jpg" alt="">
-            <img src="images/sketchnoters4.png" alt="">
+            <img src="images/sketchnoters3b.jpg" alt="sketchnoters design">
+            <img src="images/sketchnoters4.png" alt="colorful design">
             <div class="cs_text">
                 <h4>solution</h4>
                 <p>I came with the concept of the web page as a plain canvas that emphasizes hand-drawn illustrations and motion graphics to display the process of drawing. 
@@ -44,18 +44,18 @@
                 <a href="https://www.youtube.com/watch?v=8C2MAUeNFz4" target="_blank"><h4><span class="iconify" data-inline="false" data-icon="clarity:music-note-solid" style="color: #fff;"></span>Lala Land</h4></a>
                 <p>I discovered listening music helps me to focus on coding. In this project I listened the Lalaland soundtrack!</p>   
                 <br><br><br>
-                <a href="http://thesketchnoters.com/" target="_blank"><p><img src="images/arrow_w.svg" alt="" class="arrow">  view project</p></a>
+                <a href="http://thesketchnoters.com/" target="_blank"><p><img src="images/arrow_w.svg" alt="arrow" class="arrow">  view project</p></a>
             </div>
             
-            <img src="images/sketchnoters6.jpg" class="cs_image_pc_no" alt="">
+            <img src="images/sketchnoters6.jpg" class="cs_image_pc_no" alt="mobile design">
             <div class="cs_image_pc_only">
-                <img src="images/sketchnoters5.jpg" alt="">
-                <img src="images/sketchnoters6.jpg" alt="">
+                <img src="images/sketchnoters5.jpg" alt="sketchnoters design">
+                <img src="images/sketchnoters6.jpg" alt="web design">
             </div>
         </div>
         <!-- right -->
         <div class="cs_right">
-            <img src="images/triangl.png" alt="" class="cs_tria">
+            <img src="images/triangl.png" alt="red triangle" class="cs_tria">
             <div class="cs_text">
                 <h4>services</h4>
                 <ul class="white">

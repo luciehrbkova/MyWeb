@@ -17,7 +17,7 @@
             <div class="cs_top">
                 <h2 class="black" data-aos="fade-left">Blueberry Blog</h2>
             </div>
-            <img src="../images/blue1.png" alt="">
+            <img src="../images/blue1.png" alt="mobile design">
           
             
             <div class="cs_text">
@@ -32,16 +32,16 @@
                 <p>Cílem bylo vytvořit vebovou aplikaci pro blogery z důrazem na čistý a minimalistycký design.</p>
                 <br><br>
             </div>
-            <img src="../images/blue8.png" alt="">
+            <img src="../images/blue8.png" alt="hero page design">
             <div class="cs_text">
                 <h4>výzva</h4>
                 <p>V tomto projektu jsem řešila jak a kde ukládat obsah tvořený uživateli, jak ho třídit a také zobrazit, pokud si to uživatel přeje.</p>
             </div>
             <div class="cs_image_pc_only">
-                <img src="../images/blue4.png" alt="">
-                <img src="../images/blue3.png" alt="">
+                <img src="../images/blue4.png" alt="borůvkový design">
+                <img src="../images/blue3.png" alt="mobilní design">
             </div>
-            <img src="../images/blue2.png"  alt="">
+            <img src="../images/blue2.png"  alt="design Blueberry Blog">
             <div class="cs_text">
                 <h4>řešení</h4>
                 <p>Řešením bylo vytvoření webové aplikace napojené na databázi. Registrovaní uživatelé mohou upravovat svůj profil a psát články,
@@ -49,12 +49,12 @@
                  sdílený obsah. Systém vyžadoval také administrativní sekci pro správu uživatelů a obsahu.</p>
             </div>
             
-            <img src="../images/blue3.png" class="cs_image_pc_no" alt="">
-            <img src="../images/blue4.png" class="cs_image_pc_no" alt="">
+            <img src="../images/blue3.png" class="cs_image_pc_no" alt="Blueberry blog design">
+            <img src="../images/blue4.png" class="cs_image_pc_no" alt="Blueberry design">
         </div>
         <!-- right -->
         <div class="cs_right">
-            <img src="../images/triangl.png" alt="" class="cs_tria">
+            <img src="../images/triangl.png" alt="red triangle" class="cs_tria">
             <div class="cs_text">
                 <h4>služby</h4>
                 <ul class="white">
@@ -118,9 +118,9 @@
             <a href="index.php#contact"><p>Kontakt</p></a>
         </div>
         <div class="links">
-            <a href="#navbar"><img src="../images/up.png" alt=""></a>
-            <a href="https://www.instagram.com/lucieweb.dev/"><img src="../images/insta.png" alt=""></a>
-            <a href="https://www.linkedin.com/in/luciehrbkova/"><img src="../images/linked.png" alt=""></a>
+            <a href="#navbar"><img src="../images/up.png" alt="arrow up"></a>
+            <a href="https://www.instagram.com/lucieweb.dev/"><img src="../images/insta.png" alt="insta icon"></a>
+            <a href="https://www.linkedin.com/in/luciehrbkova/"><img src="../images/linked.png" alt="LinkedIn icon"></a>
         </div>
     </div>
     <p class="copyright">© Lucie Hrbkova 2020</p>
