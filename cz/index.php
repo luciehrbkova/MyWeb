@@ -20,24 +20,24 @@
             <!-- <p class="black" id="demo"></p> -->
             
             <div class="landing_img" data-aos="fade-right">
-                <img src="../images/arrow.svg" alt="" class="arrow" id="arrow">
-                <img src="../images/ellipse.png" alt="" class="el_sq" id="kruh">
-                <img src="../images/rect.png" alt="" class="el_sq"  id="ctverec">
-                <img src="../images/triangl.png" alt="" class="tria" id="trojuhelnik">
+                <img src="../images/arrow.svg" alt="šipka" class="arrow" id="arrow">
+                <img src="../images/ellipse.png" alt="žlutý kruh" class="el_sq" id="kruh">
+                <img src="../images/rect.png" alt="modrý čtverec" class="el_sq"  id="ctverec">
+                <img src="../images/triangl.png" alt="červený trojúhelník" class="tria" id="trojuhelnik">
             </div>
             <a href="#services"><button class="white_button" id="landing_button" data-aos="fade-left">Ukaž mi víc</button></a>
         </div>
         <div class="right background_black" id="landing_right"> 
             <div class="value" id="yellowValue">
-                <img src="../images/ellipse.png" alt="">
+                <img src="../images/ellipse.png" alt="žlutý kruh">
                 <p class="white">kreativita</p>
             </div>
             <div class="value" id="blueValue">
-                <img src="../images/rect.png" alt="">
+                <img src="../images/rect.png" alt="modrý čtverec">
                 <p class="white">spolehlivost</p>
             </div>
             <div class="value" id="redValue">
-                <img src="../images/triangle_right.png" alt="" class="tria_right">
+                <img src="../images/triangle_right.png" alt="červený trojúhelník" class="tria_right">
                 <p class="tria_p white">fokus</p>
             </div>
         </div>
@@ -115,7 +115,7 @@
     <!-- ABOUT -->
     <section class="about" id="about">
         <div class="left background_white">
-            <img src="../images/smiley.png" alt="" id="smiley">
+            <img src="../images/smiley.png" alt="smajlík" id="smiley">
             <h3 class="black">o mně</h3>
             <p class="black">Jsem Designer a Developer žíjící v Edinburghu. Ráda tvořím. Technologie používám jako mocné nástroje k vyjádření své kreativní vize. 
                                 Věřím v sofistikovaná řešení, která jsou funkční a krásná zároveň. 
@@ -127,7 +127,7 @@
        
         </div>
         <div id="help_cont_black" class="background_black">
-        <img src="../images/luca.png" alt="" class="luca">
+        <img src="../images/luca.png" alt="portrét Lucie" class="luca">
         <div id="help_box_black">
             <p class="white" id="help_quote_black">I help clients to be the best version of their own on web.</p>
             <a href="#contact"><button class="black_button" id="help_button_black">Napište mi</button></a>
@@ -143,17 +143,17 @@
             <!-- ONLY MOBILE -->
                 <!-- project 1 -->
                 <div class="project_card">
-                    <a href="casestudy_helena.php"><img src="../images/pr_helena.jpg" alt="" class="cover" id="cover2"></a> 
+                    <a href="casestudy_helena.php"><img src="../images/pr_helena.jpg" alt="Helena Kmochová web" class="cover" id="cover2"></a> 
                     <div class="project_descr">
-                        <a href="casestudy_helena.php"><img src="../images/triangle_right.png" alt=""></a> 
+                        <a href="casestudy_helena.php"><img src="../images/triangle_right.png" alt="červený trojúhelník"></a> 
                         <a href="casestudy_helena.php"><h4 class="black">Helena Kmochová Web</h4></a> 
                     </div>
                 </div>
                 <!-- project 2 -->
                 <div class="project_card">
-                    <a href="casestudy_boom.php"><img src="../images/pr_boom.jpg" alt="" class="cover" id="cover1"></a> 
+                    <a href="casestudy_boom.php"><img src="../images/pr_boom.jpg" alt="Boom Radio website" class="cover" id="cover1"></a> 
                     <div class="project_descr">
-                        <a href="casestudy_boom.php"><img src="../images/triangle_right.png" alt=""></a>
+                        <a href="casestudy_boom.php"><img src="../images/triangle_right.png" alt="červený trojúhelník"></a>
                         <a href="casestudy_boom.php"><h4 class="black">Boom Radio WebApp</h4></a> 
                     </div>
                 </div>
@@ -183,12 +183,12 @@
             
 
         </div>
-        <div class="tria_div" id="triangle_button"><img src="../images/triangle_right.png" alt="" id="pro_tria"></div>
+        <div class="tria_div" id="triangle_button"><img src="../images/triangle_right.png" alt="červený trojúhelník" id="pro_tria"></div>
         
         <div class="right background_black">
             <!-- ONLY MOBILE -->
             <div class="more_container">
-                <img src="../images/arrow_white.svg" alt="" id="moreProjectArrow">
+                <img src="../images/arrow_white.svg" alt="šipka" id="moreProjectArrow">
                 <a href="projects.php"><p class="white">view more projects</p></a>
             </div>
             <!-- ------------------------------------ -->
@@ -307,13 +307,13 @@
             <a href="#contact"><button class="black_button" id="ref_button_black">Vaše přání</button></a>
             <!-- image -->
         <div class="reference_playground" id="pl_yel">
-            <img src="../images/ellipse.png" alt=""  id="kruh_ref">
+            <img src="../images/ellipse.png" alt="žlutý kruh"  id="kruh_ref">
         </div>
         <div class="reference_playground" id="pl_blu">
-            <img src="../images/rect.png" alt=""  id="ctverec_ref">
+            <img src="../images/rect.png" alt="modrý čtverec"  id="ctverec_ref">
         </div>
         <div class="reference_playground" id="pl_red">
-            <img src="../images/triangl.png" alt="" id="trojuhelnik_ref">
+            <img src="../images/triangl.png" alt="červený trojúhelník" id="trojuhelnik_ref">
         </div>
         </div>
     </section>
@@ -328,8 +328,8 @@
                     <br>
                     +447497920421</h5>
                 <div class="socmedia">
-                    <a href="https://www.instagram.com/lucieweb.dev/"><img src="../images/insta.png" alt="" id="insta"></a>
-                    <a href="https://www.linkedin.com/in/luciehrbkova/"><img src="../images/linked.png" alt="" id="link"></a>
+                    <a href="https://www.instagram.com/lucieweb.dev/"><img src="../images/insta.png" alt="insta icon" id="insta"></a>
+                    <a href="https://www.linkedin.com/in/luciehrbkova/"><img src="../images/linked.png" alt="LinkedIn icon" id="link"></a>
                 </div>
             </div>
         </div>
@@ -355,9 +355,9 @@
             <a href="index.php#contact"><p>Kontakt</p></a>
         </div>
         <div class="links">
-            <a href="#navbar"><img src="../images/up.png" alt=""></a>
-            <a href="https://www.instagram.com/lucieweb.dev/"><img src="../images/insta.png" alt=""></a>
-            <a href="https://www.linkedin.com/in/luciehrbkova/"><img src="../images/linked.png" alt=""></a>
+            <a href="#navbar"><img src="../images/up.png" alt="šipka nahoru"></a>
+            <a href="https://www.instagram.com/lucieweb.dev/"><img src="../images/insta.png" alt="insta icon"></a>
+            <a href="https://www.linkedin.com/in/luciehrbkova/"><img src="../images/linked.png" alt="LinkedIn icon"></a>
         </div>
     </div>
     <p class="copyright">© Lucie Hrbkova 2020</p>

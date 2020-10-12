@@ -18,11 +18,6 @@
                 <h2 class="black" data-aos="fade-left">Blueberry Blog</h2>
             </div>
             <img src="images/blue1.png" alt="mobile mockups">
-            <!-- <div class="cs_image_pc_only">
-                <img src="images/blue1.png" alt="">
-                <img src="images/blue2.png" alt="">
-            </div> -->
-            <!-- <img src="images/blue6.png" alt=""> -->
             
             <div class="cs_text">
                 <h4>services</h4>
