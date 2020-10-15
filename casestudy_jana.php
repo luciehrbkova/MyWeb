@@ -11,7 +11,7 @@
     <meta property="og:image:width" content="200">
     <meta property="og:image:height" content="137">
     <title>Jana Novotna | lucieWEB.dev</title>
-    <meta name="description" content="WEB DESIGN & DEVELOPMENT | Lucie Hrbkova | Jana Novotna - website for enterpreuner">
+    <meta name="description" content="WEB DESIGN & DEVELOPMENT | Lucie Hrbkova | Jana Novotna - beautiful website for an enterpreuner">
 
 </head>
 <body>

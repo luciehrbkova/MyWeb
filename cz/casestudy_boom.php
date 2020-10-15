@@ -11,7 +11,7 @@
     <meta property="og:image:width" content="200">
     <meta property="og:image:height" content="137">
     <title>Boom Radio | lucieWEB.dev</title>
-    <meta name="description" content="WEB DESIGN & DEVELOPMENT | Lucie Hrbková  | Boom Radio - webová aplikace pro studentské online radio">
+    <meta name="description" content="WEB DESIGN & DEVELOPMENT | Lucie Hrbková | Boom Radio - Webová aplikace pro studentské online radio">
 
 </head>
 <body>

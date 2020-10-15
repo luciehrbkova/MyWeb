@@ -11,7 +11,7 @@
     <meta property="og:image:width" content="200">
     <meta property="og:image:height" content="137">
     <title>Blueberry Blog | lucieWEB.dev</title>
-    <meta name="description" content="WEB DESIGN & DEVELOPMENT | Lucie Hrbková | Blueberry Blog - webová platforma pro blogery">
+    <meta name="description" content="WEB DESIGN & DEVELOPMENT | Lucie Hrbková | Blueberry Blog - Webová platforma pro blogery">
 
 </head>
 <body>

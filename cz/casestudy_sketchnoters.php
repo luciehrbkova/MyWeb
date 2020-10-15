@@ -11,7 +11,7 @@
     <meta property="og:image:width" content="200">
     <meta property="og:image:height" content="137">
     <title>Sketchnoters | lucieWEB.dev</title>
-    <meta name="description" content="WEB DESIGN & DEVELOPMENT | Lucie Hrbková | Sketchnoters - business web pro grfické studio">
+    <meta name="description" content="WEB DESIGN & DEVELOPMENT | Lucie Hrbková | Sketchnoters - Business web pro grafické studio">
 
 </head>
 <body>
