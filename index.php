@@ -284,11 +284,11 @@
                 </div>
             <!-- reference 3 -->
             <div class="refcard" id="reference_card_3">
-                <p class="black">Lucie was recommended to me by one of my friends who was happy with her work. Perfect communication despite working remotely and very flexible 
-            to all my requirements. I am absolutely satisfied with the delivered outcome and will definitely recommend working with Lucie.
+                <p class="black">Lucie was recommended to me and I must admit that she exceeded my expectations. From the initial analysis revealing many interesting facts, such as how important is to address how the site will be perceived by the users and what are their interests.
+                I appreciate her professional approach and the energy she put into our cooperation. I recommend her to anyone who wants a website that stands out.
                     <br><br>
                 </p>
-                <p class="black referee">Colin</p>
+                <p class="black referee">Conor</p>
                     <!-- <img src="images/sl_3.png" alt="" class="slider_white" id="sl_3_w">
                     <img src="images/sl_3b.png" alt="" class="slider_black" id="sl_3_b"> -->
                 </div>

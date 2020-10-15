@@ -291,9 +291,9 @@
             
             <!-- reference 2 -->
             <div class="refcard" id="reference_card_2">
-                <p class="black">Mela jsem požadavek na tvorbu webovek na míru. Design, obsah a funkcnost stránek měli být originální a zajimave. Lucka s Martinam jsou dobre sehrana dvojka, každý je odborník na to sve a tak se skvěle doplnuji. 
-                    Prekvapil me hlavně celkový rozbor a analýza mého podnikání, klientu i me ososbnosti na začátku tvorby stránek. Opravdu profesionální přístup!
-                    Vřele doporucuji:)
+                <p class="black">Měla jsem požadavek na tvorbu webovek na míru. Design, obsah a funkčnost stránek měli být originální a zajímavé. Lucka s Martinem jsou dobře sehraná dvojka, každý je odborník na to své a tak se skvěle doplňují. 
+                    Překvapil mě hlavně celkový rozbor a analýza mého podnikání, klientů i mé osobnosti na začátku tvorby stránek. Opravdu profesionální přístup!
+                    Vřele doporučuji:)
                     <br><br>
                 </p>
                 <p class="black referee">Helena</p>
@@ -302,12 +302,11 @@
                 </div>
             <!-- reference 3 -->
             <div class="refcard" id="reference_card_3">
-                <p class="black">Mela jsem požadavek na tvorbu webovek na míru. Design, obsah a funkcnost stránek měli být originální a zajimave. Zkratka Lucka s Martinam jsou dobre sehrana dvojka, každý je odborník na to sve a tak se skvěle doplnuji. 
-                    Prekvapil me hlavně celkový rozbor a analýza mého podnikání, klientu i me ososbnosti na začátku tvorby stránek. Opravdu profesionální přístup!
-                    Vřele doporucuji:)
+                <p class="black">Lucie mi byla doporučena a musím uznat, že předčila má očekávání. Již od počáteční analýzy poodkryla mnoho zajímavých faktů, například jak důležité je řešit, jak web bude vnímán uživatelem a co ho skutečně zajímá.
+                Cením si jejího profesionálního přístupu a energie kterou do naší spolupráce vložila. Doporučuji každému, kdo chce web, který vynikne.
                     <br><br>
                 </p>
-                <p class="black referee">Stanislav</p>
+                <p class="black referee">Conor</p>
                     <!-- <img src="../images/sl_3.png" alt="" class="slider_white" id="sl_3_w">
                     <img src="../images/sl_3b.png" alt="" class="slider_black" id="sl_3_b"> -->
                 </div>
