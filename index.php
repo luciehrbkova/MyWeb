@@ -284,7 +284,7 @@
                 </div>
             <!-- reference 3 -->
             <div class="refcard" id="reference_card_3">
-                <p class="black">Lucie was recommended to me and I must admit that she exceeded my expectations. From the initial analysis revealing many interesting facts, such as how important is to address how the site will be perceived by the users and what are their interests.
+                <p class="black">Lucie was recommended to me and I must admit that she exceeded my expectations. From the initial research she revealed many interesting facts, such as how important is to address how the site will be perceived by the users and what are their interests.
                 I appreciate her professional approach and the energy she put into our cooperation. I recommend her to anyone who wants a website that stands out.
                     <br><br>
                 </p>
