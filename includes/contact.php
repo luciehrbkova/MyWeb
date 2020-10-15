@@ -13,11 +13,11 @@
         <form action="<?=$url;?>" id="form"  method="POST" enctype="multipart/form-data">
             <input type="hidden" name="action" value="submit">
             <label for="name">Name</label>
-            <input type="text" name="name" placeholder="name" required>
+            <input type="text" name="name" id="name" placeholder="name" required>
             <label for="email">Email</label>
-            <input type="email" name="email" placeholder="email" required>
+            <input type="email" name="email" id="email" placeholder="email" required>
             <label for="message">Message</label>
-            <input type="text" name="message" placeholder="your message" class="message" required>
+            <input type="text" name="message" id="message" placeholder="your message" class="message" required>
             <input type="submit" value="SEND" class="form_button_black" id="form_button">
         </form>
         <?php
