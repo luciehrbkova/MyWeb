@@ -11,7 +11,7 @@
     <meta property="og:image:width" content="200">
     <meta property="og:image:height" content="137">
     <title>Helena Kmochová | lucieWEB.dev</title>
-    <meta name="description" content="WEB DESIGN & DEVELOPMENT | Lucie Hrbková  | Helena Kmochová - webová prezentace na míru">
+    <meta name="description" content="WEB DESIGN & DEVELOPMENT | Lucie Hrbková | Helena Kmochová - Webová prezentace podnikatelce na míru">
 
 </head>
 <body>

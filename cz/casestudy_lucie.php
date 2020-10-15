@@ -11,7 +11,7 @@
     <meta property="og:image:width" content="200">
     <meta property="og:image:height" content="137">
     <title>Lucie Hrbková | lucieWEB.dev</title>
-    <meta name="description" content="WEB DESIGN & DEVELOPMENT | Lucie Hrbková | Jak jsem vutvořila svůj web LucieWeb.dev?">
+    <meta name="description" content="WEB DESIGN & DEVELOPMENT | Lucie Hrbková | Jak jsem vytvořila svůj web LucieWeb.dev?">
 
 </head>
 <body>
