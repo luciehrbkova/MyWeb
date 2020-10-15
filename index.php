@@ -3,8 +3,8 @@
 <head>
     <!-- include head items -->
     <?php include'includes/head.php';?>
-    <title>Document</title>
-
+    <title>WEB DESIGN & DEVELOPMENT | lucieWEB.dev</title>
+    <meta name="description" content="WEB DESIGN & DEVELOPMENT | Lucie Hrbkova | I help clients become the best version of themselves on the web.">
 </head>
 <body>
     <!-- home -->
