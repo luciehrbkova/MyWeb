@@ -3,6 +3,15 @@
 <head>
     <!-- include head items -->
     <?php include'includes/head.php';?>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-152215959-4"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-152215959-4');
+        </script>
     <!-- favicon -->
     <link rel="icon" type="image/png" href="images/favicon.png" />
     <!-- image for social media links -->
