@@ -303,7 +303,7 @@
             <!-- reference 3 -->
             <div class="refcard" id="reference_card_3">
                 <p class="black">Lucie mi byla doporučena a musím uznat, že předčila má očekávání. Již od počátečních průzkumů mi poodkryla mnoho zajímavých faktů, například jak důležité je řešit, jak web bude vnímán uživatelem a co ho skutečně zajímá.
-                Cením si jejího profesionálního přístupu a energie kterou do naší spolupráce vložila. Doporučuji každému, kdo chce web, který vynikne.
+                Cením si jejího profesionálního přístupu, zvládnutí technického řešení a energie kterou do naší spolupráce vložila. Doporučuji každému, kdo chce web, který vynikne.
                     <br><br>
                 </p>
                 <p class="black referee"></p>
