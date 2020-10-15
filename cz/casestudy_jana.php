@@ -10,7 +10,8 @@
     <meta property="og:image:type" content="image/jpg">
     <meta property="og:image:width" content="200">
     <meta property="og:image:height" content="137">
-    <title>Document</title>
+    <title>Jana Novotná | lucieWEB.dev</title>
+    <meta name="description" content="WEB DESIGN & DEVELOPMENT | Lucie Hrbková  | Jana Novotná - freelance prezentace">
 
 </head>
 <body>

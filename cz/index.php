@@ -3,7 +3,15 @@
 <head>
     <!-- include head items -->
     <?php include'includes/head.php';?>
-    <title>Document</title>
+     <!-- favicon -->
+     <link rel="icon" type="image/png" href="images/favicon.png" />
+    <!-- image for social media links -->
+    <meta property="og:image" content="images/lucie5.jpg">
+    <meta property="og:image:type" content="image/jpg">
+    <meta property="og:image:width" content="200">
+    <meta property="og:image:height" content="137">
+    <title>WEB DESIGN & DEVELOPMENT | lucieWEB.dev</title>
+    <meta name="description" content="WEB DESIGN & DEVELOPMENT | Lucie Hrbková | Pomáhám klientům být na webu tou nejlepší verzí sebe sama.">
 
 </head>
 <body>

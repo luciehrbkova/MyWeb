@@ -10,7 +10,8 @@
     <meta property="og:image:type" content="image/jpg">
     <meta property="og:image:width" content="200">
     <meta property="og:image:height" content="137">
-    <title>Document</title>
+    <title>Blueberry Blog | lucieWEB.dev</title>
+    <meta name="description" content="WEB DESIGN & DEVELOPMENT | Lucie Hrbková | Blueberry Blog - webová platforma pro blogery">
 
 </head>
 <body>
@@ -36,7 +37,7 @@
                 </ul>
                 <br><br>
                 <h4>zadání</h4>
-                <p>Cílem bylo vytvořit vebovou aplikaci pro blogery z důrazem na čistý a minimalistycký design.</p>
+                <p>Cílem bylo vytvořit webovou aplikaci pro blogery z důrazem na čistý a minimalistycký design.</p>
                 <br><br>
             </div>
             <img src="../images/blue8.png" alt="hero page design">

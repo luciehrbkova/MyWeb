@@ -10,7 +10,8 @@
     <meta property="og:image:type" content="image/jpg">
     <meta property="og:image:width" content="200">
     <meta property="og:image:height" content="137">
-    <title>Document</title>
+    <title>Sketchnoters | lucieWEB.dev</title>
+    <meta name="description" content="WEB DESIGN & DEVELOPMENT | Lucie Hrbkova | Sketchnoters - business web for a graphic studio">
 
 </head>
 <body>
